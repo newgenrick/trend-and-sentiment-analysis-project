@@ -1,16 +1,750 @@
-Post,Date,Views,Replies,Upvotes,Link,Resolved
-zone based firewall,05-21-2018,103,0,0,https://supportforums.cisco.com//t5/lan-switching-and-routing/zone-based-firewall/td-p/3386713,0
-IP Camera not working over wireless P2P,05-21-2018,96,2,0,https://supportforums.cisco.com//t5/lan-switching-and-routing/ip-camera-not-working-over-wireless-p2p-link/td-p/3386332,0
-DNA,05-20-2018,112,1,0,https://supportforums.cisco.com//t5/lan-switching-and-routing/dna/td-p/3386075,0
-CCIE RS,10-22-2015,183,6,0,https://supportforums.cisco.com//t5/lan-switching-and-routing/ccie-r-s/td-p/2725432,0
-Cisco Catalyst 950040X Fans Included o,05-21-2018,105,3,0,https://supportforums.cisco.com//t5/lan-switching-and-routing/cisco-catalyst-9500-40x-fans-included-or-not/td-p/3386596,0
-CPU,11-17-2017,272,7,0,https://supportforums.cisco.com//t5/lan-switching-and-routing/cpu/td-p/3218378,0
-licence,12-22-2017,263,4,0,https://supportforums.cisco.com//t5/lan-switching-and-routing/licence/td-p/3300685,0
-Connect VLANs from 2 switches via a rou,05-21-2018,154,12,0,https://supportforums.cisco.com//t5/lan-switching-and-routing/connect-vlans-from-2-switches-via-a-router/td-p/3386345,0
-VLAN ADD,05-21-2018,110,1,0,https://supportforums.cisco.com//t5/lan-switching-and-routing/vlan-add/td-p/3386613,0
-SFF84725THRESHOLDVIOLATION Gi02 ,05-21-2018,79,0,0,https://supportforums.cisco.com//t5/lan-switching-and-routing/sff8472-5-threshold-violation-gi0-2-rx-power-high-warning/td-p/3386534,0
-Nexus 3000 firmware upgrade issue,04-23-2018,114,1,0,https://supportforums.cisco.com//t5/lan-switching-and-routing/nexus-3000-firmware-upgrade-issue/td-p/3371656,0
-Nexus 3064 Firmware nxos703I46bin,05-18-2018,125,4,0,https://supportforums.cisco.com//t5/lan-switching-and-routing/nexus-3064-firmware-nxos-7-0-3-i4-6-bin/td-p/3385630,0
-Switch voice and native VLAN configur,05-21-2018,104,2,5,https://supportforums.cisco.com//t5/lan-switching-and-routing/switch-voice-and-native-vlan-configure-switchports/td-p/3386336,0
-Cat 6840X traffic shaping,05-21-2018,332,0,0,https://supportforums.cisco.com//t5/lan-switching-and-routing/cat-6840-x-traffic-shaping/td-p/3386487,0
-Help on configuration of PBR on Cisco 3,02-03-2018,718,26,35,https://supportforums.cisco.com//t5/lan-switching-and-routing/help-on-configuration-of-pbr-on-cisco-3850-switch/td-p/3324761,1
+Voicemail Says Sorry is not available,12-03-2014,664,8,5,https://supportforums.cisco.com//t5/ip-telephony/voicemail-says-quot-sorry-is-not-available-quot/td-p/2590243,0
+Cisco Phone 8841 and CUVA not working ,09-27-2017,116,3,0,https://supportforums.cisco.com//t5/ip-telephony/cisco-phone-8841-and-cuva-not-working-load-11-x/td-p/3190318,0
+CUCM 115  Log on failed  Invalid Use,09-27-2017,661,2,10,https://supportforums.cisco.com//t5/ip-telephony/cucm-11-5-log-on-failed-invalid-user-id-or-password/td-p/3190174,1
+Cisco DX650 Call DROP,09-27-2017,120,0,0,https://supportforums.cisco.com//t5/ip-telephony/cisco-dx650-call-drop/td-p/3190153,0
+Removing FXO card from CUCME,02-11-2015,187,6,5,https://supportforums.cisco.com//t5/ip-telephony/removing-fxo-card-from-cucme/td-p/2657003,0
+COP file update using DVD,09-25-2017,169,4,5,https://supportforums.cisco.com//t5/ip-telephony/cop-file-update-using-dvd/td-p/3188867,0
+Disable buttons on 8841 and autodial e,09-26-2017,247,2,0,https://supportforums.cisco.com//t5/ip-telephony/disable-buttons-on-8841-and-auto-dial-extension-on-handset/td-p/3189908,0
+Unity Connection 9x integration with m,09-26-2017,206,3,10,https://supportforums.cisco.com//t5/ip-telephony/unity-connection-9-x-integration-with-microsoft-exchange-2016/td-p/3189787,1
+CUCM express requirements,09-26-2017,128,1,0,https://supportforums.cisco.com//t5/ip-telephony/cucm-express-requirements/td-p/3189821,1
+License ip phone replacement,09-26-2017,117,1,0,https://supportforums.cisco.com//t5/ip-telephony/license-ip-phone-replacement/td-p/3189763,1
+Intermittent call disconnects after one,07-13-2011,5734,9,0,https://supportforums.cisco.com//t5/ip-telephony/intermittent-call-disconnects-after-one-ring/td-p/1674773,0
+SIP20 500 Internal Server ErrorWh,09-26-2017,590,1,0,https://supportforums.cisco.com//t5/ip-telephony/sip-2-0-500-internal-server-error-why/td-p/3189709,0
+Upload 3rd party Tomcat pem in CuCM,09-25-2017,252,2,5,https://supportforums.cisco.com//t5/ip-telephony/upload-3rd-party-tomcat-pem-in-cucm/td-p/3189355,1
+DSP farm profiles association issue,02-15-2011,8501,13,10,https://supportforums.cisco.com//t5/ip-telephony/dsp-farm-profiles-association-issue/td-p/1627177,0
+Conference Now wrong announcement langu,05-02-2016,496,15,0,https://supportforums.cisco.com//t5/ip-telephony/conference-now-wrong-announcement-language/td-p/2859607,0
+Cisco IP Communicator  Behavior when i,09-25-2017,185,2,5,https://supportforums.cisco.com//t5/ip-telephony/cisco-ip-communicator-behavior-when-is-unregistered-status/td-p/3189291,1
+cisco webex meeting server on prem  pr,09-26-2017,102,0,0,https://supportforums.cisco.com//t5/ip-telephony/cisco-webex-meeting-server-on-prem-private-key/td-p/3189523,0
+CUCM CSR 1kv CUBE  No calling working,10-24-2015,155,6,10,https://supportforums.cisco.com//t5/ip-telephony/cucm-csr-1kv-cube-no-calling-working/td-p/2738813,1
+Can we manage the input queue on UCS,09-25-2017,189,5,0,https://supportforums.cisco.com//t5/ip-telephony/can-we-manage-the-input-queue-on-ucs/td-p/3189073,1
+LDAP Users as caller ID in CUCM,09-25-2017,209,2,10,https://supportforums.cisco.com//t5/ip-telephony/ldap-users-as-caller-id-in-cucm/td-p/3189143,0
+Auto qos simultaneously Policymap,09-25-2017,111,0,0,https://supportforums.cisco.com//t5/ip-telephony/auto-qos-simultaneously-policy-map/td-p/3189406,0
+Caller id from unity connection to offn,09-21-2017,334,5,0,https://supportforums.cisco.com//t5/ip-telephony/caller-id-from-unity-connection-to-offnet/td-p/3187805,0
+PIN protected extension  Multi Dial Ex,09-08-2017,191,5,10,https://supportforums.cisco.com//t5/ip-telephony/pin-protected-extension-multi-dial-extension-for-overhead-paging/td-p/3181941,0
+Transfer Key Not Changing With Call Sta,08-07-2017,175,5,0,https://supportforums.cisco.com//t5/ip-telephony/transfer-key-not-changing-with-call-state/td-p/3088596,1
+DX650 Clear call history and applicatio,09-25-2017,118,0,0,https://supportforums.cisco.com//t5/ip-telephony/dx650-clear-call-history-and-application-lock/td-p/3189290,0
+Audio Hiss since FW 11 on 8800 series,09-22-2017,156,3,0,https://supportforums.cisco.com//t5/ip-telephony/audio-hiss-since-fw-11-on-8800-series/td-p/3188077,0
+Track Incoming call history CUCM 91,09-25-2017,499,4,0,https://supportforums.cisco.com//t5/ip-telephony/track-incoming-call-history-cucm-9-1/td-p/3189212,1
+Seeking to understand users NEED to be,09-25-2017,134,4,5,https://supportforums.cisco.com//t5/ip-telephony/seeking-to-understand-users-need-to-be-in-unity-to-get/td-p/3189152,1
+Hide Caller ID from CUCM to PSTN,09-25-2017,1183,4,5,https://supportforums.cisco.com//t5/ip-telephony/hide-caller-id-from-cucm-to-pstn/td-p/3188982,1
+SIP call route issue,09-19-2017,154,3,0,https://supportforums.cisco.com//t5/ip-telephony/sip-call-route-issue/td-p/3186387,0
+Configure Fax Machine,09-25-2017,142,1,0,https://supportforums.cisco.com//t5/ip-telephony/configure-fax-machine/td-p/3188903,0
+how to register missed calls with Cisco,09-22-2017,164,3,0,https://supportforums.cisco.com//t5/ip-telephony/how-to-register-missed-calls-with-cisco-ip-communicator-turned/td-p/3188072,1
+MOH for line group,09-25-2017,169,3,0,https://supportforums.cisco.com//t5/ip-telephony/moh-for-line-group/td-p/3188937,0
+DTMF issue on CME,09-12-2017,566,17,5,https://supportforums.cisco.com//t5/ip-telephony/dtmf-issue-on-cme/td-p/3183069,0
+IMP Server backup,09-22-2017,440,11,0,https://supportforums.cisco.com//t5/ip-telephony/im-amp-p-server-backup/td-p/3188057,0
+Route Pattern Matching causing slowness,09-23-2017,145,2,0,https://supportforums.cisco.com//t5/ip-telephony/route-pattern-matching-causing-slowness/td-p/3188508,1
+Delay when end user login to Extension ,09-07-2012,1333,7,10,https://supportforums.cisco.com//t5/ip-telephony/delay-when-end-user-login-to-extension-mobility/td-p/2052304,0
+Unity Connection  empty deleted items ,09-08-2011,8467,7,28,https://supportforums.cisco.com//t5/ip-telephony/unity-connection-empty-deleted-items-folder/td-p/1769754,1
+Hunt Group,09-23-2017,131,1,0,https://supportforums.cisco.com//t5/ip-telephony/hunt-group/td-p/3188565,0
+Migrate from other vendos to Cisco,09-22-2017,189,6,15,https://supportforums.cisco.com//t5/ip-telephony/migrate-from-other-vendos-to-cisco/td-p/3188396,1
+Call waiting issue with Cisco 78xx 88,03-27-2017,120,2,0,https://supportforums.cisco.com//t5/ip-telephony/call-waiting-issue-with-cisco-78xx-88xx-3pcc-asterisk/td-p/3029252,0
+CP7821 register with SIP,08-26-2017,1785,14,1,https://supportforums.cisco.com//t5/ip-telephony/cp-7821-register-with-sip/td-p/3176181,0
+Emergency Dialing in Brazil,09-22-2017,134,1,0,https://supportforums.cisco.com//t5/ip-telephony/emergency-dialing-in-brazil/td-p/3188132,0
+Unable to install CUCM Subscriber erro,09-21-2017,357,4,5,https://supportforums.cisco.com//t5/ip-telephony/unable-to-install-cucm-subscriber-error-showing-while/td-p/3187213,0
+Issue with call hunting,09-22-2017,132,0,0,https://supportforums.cisco.com//t5/ip-telephony/issue-with-call-hunting/td-p/3188041,0
+PLM,09-22-2017,156,6,5,https://supportforums.cisco.com//t5/ip-telephony/plm/td-p/3187975,0
+cucm FAC usage report,09-22-2017,140,1,0,https://supportforums.cisco.com//t5/ip-telephony/cucm-fac-usage-report/td-p/3187995,0
+UCS BE7K  Fault f0180 VoltageProblem,09-22-2017,152,0,0,https://supportforums.cisco.com//t5/ip-telephony/ucs-be7k-fault-f0180-voltage-problem/td-p/3187925,0
+Cisco 7970 stucked on Upgrading step,05-21-2016,589,8,5,https://supportforums.cisco.com//t5/ip-telephony/cisco-7970-stucked-on-upgrading-step/td-p/2883345,1
+Communication between Hotel Guests to b,09-21-2017,188,3,5,https://supportforums.cisco.com//t5/ip-telephony/communication-between-hotel-guests-to-be-stopped-between-10-00/td-p/3187586,1
+Call Forwarding Issue,09-21-2017,153,2,0,https://supportforums.cisco.com//t5/ip-telephony/call-forwarding-issue/td-p/3187819,1
+7800 persistent MRA credentials after f,09-21-2017,301,1,0,https://supportforums.cisco.com//t5/ip-telephony/7800-persistent-mra-credentials-after-factory-reset/td-p/3187790,0
+Please delete thread,09-18-2017,185,1,0,https://supportforums.cisco.com//t5/ip-telephony/please-delete-thread/td-p/3185617,0
+cisco 7841 phone not booting up all lig,09-21-2017,149,0,0,https://supportforums.cisco.com//t5/ip-telephony/cisco-7841-phone-not-booting-up-all-lights-on/td-p/3187613,0
+CUCM version 12x compatibility with SP,09-21-2017,242,2,5,https://supportforums.cisco.com//t5/ip-telephony/cucm-version-12-x-compatibility-with-spa8800/td-p/3187200,0
+Upgrade 91 to 115,09-21-2017,509,3,10,https://supportforums.cisco.com//t5/ip-telephony/upgrade-9-1-to-11-5/td-p/3187234,1
+CUCM publisher and subscriber callrpoce,09-20-2017,427,4,5,https://supportforums.cisco.com//t5/ip-telephony/cucm-publisher-and-subscriber-callrpocessing-ha/td-p/3186532,1
+Certificate expiration warnings,09-20-2017,1034,4,25,https://supportforums.cisco.com//t5/ip-telephony/certificate-expiration-warnings/td-p/3186982,0
+IP phone reboot,08-29-2016,137,2,0,https://supportforums.cisco.com//t5/ip-telephony/ip-phone-reboot/td-p/2969456,0
+CME dissconnect call after 5 min using ,09-19-2017,129,2,0,https://supportforums.cisco.com//t5/ip-telephony/cme-dissconnect-call-after-5-min-using-tcl-file/td-p/3186486,0
+8831 conference phone  daisy chain por,03-23-2016,2144,13,10,https://supportforums.cisco.com//t5/ip-telephony/8831-conference-phone-daisy-chain-port/td-p/2901119,1
+many Cisco IP phones share some directo,09-20-2017,111,1,0,https://supportforums.cisco.com//t5/ip-telephony/many-cisco-ip-phones-share-some-directory-numbers/td-p/3186834,0
+SIP Trunk  MTP,09-11-2017,1037,12,10,https://supportforums.cisco.com//t5/ip-telephony/sip-trunk-amp-mtp/td-p/3182651,1
+CUCM upgrade 91 to 115 failing with,09-15-2016,614,6,0,https://supportforums.cisco.com//t5/ip-telephony/cucm-upgrade-9-1-to-11-5-failing-with-quot-another-administrator/td-p/2965768,1
+Call Manager 42,09-20-2017,131,6,5,https://supportforums.cisco.com//t5/ip-telephony/call-manager-4-2/td-p/3186536,0
+Export a DN and associated descriptions,09-20-2017,145,3,0,https://supportforums.cisco.com//t5/ip-telephony/export-a-dn-and-associated-descriptions-in-cuca-6-1-5-13900-4/td-p/3186699,1
+Compaitbiliy of Cisco Unified Attendant,09-20-2017,203,1,0,https://supportforums.cisco.com//t5/ip-telephony/compaitbiliy-of-cisco-unified-attendant-console-standard-with/td-p/3186530,0
+SX80 Registered to Spark Cloud with H32,09-20-2017,434,1,0,https://supportforums.cisco.com//t5/ip-telephony/sx80-registered-to-spark-cloud-with-h323-dialing/td-p/3186739,0
+VG224 Port OffHook,09-19-2017,138,2,0,https://supportforums.cisco.com//t5/ip-telephony/vg224-port-off-hook/td-p/3186328,0
+CUCM 105 CDR Notification,09-01-2017,147,4,0,https://supportforums.cisco.com//t5/ip-telephony/cucm-10-5-cdr-notification/td-p/3179000,0
+Cisco Unity Connection Messaging fillin,09-19-2017,349,2,0,https://supportforums.cisco.com//t5/ip-telephony/cisco-unity-connection-messaging-filling-up-voicemail-mailbox/td-p/3186198,1
+780069008900 CTL and ITL hash,03-12-2015,115,1,0,https://supportforums.cisco.com//t5/ip-telephony/7800-6900-8900-ctl-and-itl-hash/td-p/2625208,0
+CUCM 115 how to clean up CTL file remo,04-25-2017,304,3,0,https://supportforums.cisco.com//t5/ip-telephony/cucm-11-5-how-to-clean-up-ctl-file-removing-old-records/td-p/3076717,0
+monitor e1 connectivity in 2811,09-19-2017,161,3,0,https://supportforums.cisco.com//t5/ip-telephony/monitor-e1-connectivity-in-2811/td-p/3185939,0
+Migrating Old Phone on cluster 80 to N,09-20-2017,106,1,0,https://supportforums.cisco.com//t5/ip-telephony/migrating-old-phone-on-cluster-8-0-to-new-cluster-11-5-phone/td-p/3186629,0
+Hotline  Hunt groups,09-18-2017,215,7,15,https://supportforums.cisco.com//t5/ip-telephony/hotline-hunt-groups/td-p/3185827,1
+Unable to register 8841 phones with CME,09-10-2017,418,4,0,https://supportforums.cisco.com//t5/ip-telephony/unable-to-register-8841-phones-with-cme-isr-4351/td-p/3182198,0
+Registering IP Phones to local CUCM sub,09-20-2017,129,0,0,https://supportforums.cisco.com//t5/ip-telephony/registering-ip-phones-to-local-cucm-subscribers-while-roaming/td-p/3186528,0
+CME SIP Directory,11-25-2013,641,10,0,https://supportforums.cisco.com//t5/ip-telephony/cme-sip-directory/td-p/2351645,0
+8851 phones vs 7945 on CME v 105,09-01-2016,155,4,0,https://supportforums.cisco.com//t5/ip-telephony/8851-phones-vs-7945-on-cme-v-10-5/td-p/2986439,0
+3rd Party SIP Phone incoming call issue,09-19-2017,258,2,0,https://supportforums.cisco.com//t5/ip-telephony/3rd-party-sip-phone-incoming-call-issue/td-p/3185877,1
+Incoming calls issue in Third Party SIP,01-29-2014,723,7,5,https://supportforums.cisco.com//t5/ip-telephony/incoming-calls-issue-in-third-party-sip-phone/td-p/2397316,0
+SIP phone name Change CME Not getting ,09-19-2017,942,4,0,https://supportforums.cisco.com//t5/ip-telephony/sip-phone-name-change-cme-not-getting-updated/td-p/3185896,1
+Cisco Phones 8021x authentication,09-19-2017,894,1,0,https://supportforums.cisco.com//t5/ip-telephony/cisco-phones-802-1x-authentication/td-p/3185956,0
+8821 Wireless Channels,09-19-2017,207,2,0,https://supportforums.cisco.com//t5/ip-telephony/8821-wireless-channels/td-p/3186433,1
+SPA 303 and 504G SRTP issue,09-13-2017,189,1,0,https://supportforums.cisco.com//t5/ip-telephony/spa-303-and-504g-srtp-issue/td-p/3183923,0
+Cisco 7925 wireles phones,09-02-2016,61,0,0,https://supportforums.cisco.com//t5/ip-telephony/cisco-7925-wireles-phones/td-p/2993818,0
+Problem With Extension Mobility CUCM 11,09-19-2017,544,6,0,https://supportforums.cisco.com//t5/ip-telephony/problem-with-extension-mobility-cucm-11-5/td-p/3186140,0
+BluetoothWireless capability needed fo,09-18-2017,292,4,10,https://supportforums.cisco.com//t5/ip-telephony/bluetooth-wireless-capability-needed-for-ip-7965/td-p/3185723,0
+3905 on CME 91,03-31-2015,146,4,0,https://supportforums.cisco.com//t5/ip-telephony/3905-on-cme-9-1/td-p/2632905,1
+Prime collaboration assurance  sync in,09-19-2017,128,0,0,https://supportforums.cisco.com//t5/ip-telephony/prime-collaboration-assurance-sync-inventory/td-p/3185934,0
+Understanding SDLSignalling messages CU,09-14-2017,241,3,10,https://supportforums.cisco.com//t5/ip-telephony/understanding-sdlsignalling-messages-cucm/td-p/3184034,0
+Prime collaboration Assurance 116 Can,09-05-2017,115,1,0,https://supportforums.cisco.com//t5/ip-telephony/prime-collaboration-assurance-11-6-cannot-delete-alarms/td-p/3180139,0
+SRST Support for Grandstream SIP phones,09-16-2017,253,3,0,https://supportforums.cisco.com//t5/ip-telephony/srst-support-for-grandstream-sip-phones/td-p/3185093,0
+problem in CSS and forwarding call when,09-18-2017,138,1,0,https://supportforums.cisco.com//t5/ip-telephony/problem-in-css-and-forwarding-call-when-we-call-the-boss/td-p/3185836,1
+License MIgration CUCM 86 to 11X,03-24-2016,968,4,0,https://supportforums.cisco.com//t5/ip-telephony/license-migration-cucm-8-6-to-11-x/td-p/2903400,0
+Forwarding ip phone issues,09-01-2017,115,3,0,https://supportforums.cisco.com//t5/ip-telephony/forwarding-ip-phone-issues/td-p/3178979,1
+Cisco support for G7222 wideband codec,12-12-2009,1866,5,0,https://supportforums.cisco.com//t5/ip-telephony/cisco-support-for-g722-2-wideband-codec/td-p/1380012,0
+UCCX 8511100332 Restore Fail  UCD,09-18-2017,138,3,0,https://supportforums.cisco.com//t5/ip-telephony/uccx-8-5-1-11003-32-restore-fail-ucdb-component-fails/td-p/3185558,0
+Please delete thread,09-16-2017,147,1,0,https://supportforums.cisco.com//t5/ip-telephony/please-delete-thread/td-p/3185073,0
+Ask the Expert Configuring and Trouble,11-02-2012,25802,43,118,https://supportforums.cisco.com//t5/ip-telephony/ask-the-expert-configuring-and-troubleshooting-faxing-in-cisco/td-p/2057489,0
+End User Home Cluser settings,09-18-2017,134,3,5,https://supportforums.cisco.com//t5/ip-telephony/end-user-home-cluser-settings/td-p/3185538,1
+VIC32EM DROPPING LINE,09-18-2017,97,0,0,https://supportforums.cisco.com//t5/ip-telephony/vic3-2e-m-dropping-line/td-p/3185492,0
+Couple Similar issues with 8841 Phone,09-15-2017,211,2,0,https://supportforums.cisco.com//t5/ip-telephony/couple-similar-issues-with-8841-phone-and-wireless-headset/td-p/3184868,0
+Migrating CUCM 115 Publisher running P,09-17-2017,901,2,10,https://supportforums.cisco.com//t5/ip-telephony/migrating-cucm-11-5-publisher-running-plm-between-vmware-hosts/td-p/3185174,0
+One way audio ip phone to ip phone,09-18-2017,145,2,0,https://supportforums.cisco.com//t5/ip-telephony/one-way-audio-ip-phone-to-ip-phone/td-p/3185367,0
+Block outgoing calls done from a voice,05-26-2015,705,10,15,https://supportforums.cisco.com//t5/ip-telephony/block-outgoing-calls-done-from-a-voice-port/td-p/2701761,1
+AVAYA IP Phones with Cisco Call Manager,08-27-2013,5247,20,0,https://supportforums.cisco.com//t5/ip-telephony/avaya-ip-phones-with-cisco-call-manager/td-p/2319003,0
+IP phone display,09-17-2017,124,2,0,https://supportforums.cisco.com//t5/ip-telephony/ip-phone-display/td-p/3185296,1
+PLAR config,09-17-2017,101,2,0,https://supportforums.cisco.com//t5/ip-telephony/plar-config/td-p/3185295,1
+CUCM 1052139012 3way CFB oneway A,09-15-2017,112,1,0,https://supportforums.cisco.com//t5/ip-telephony/cucm-10-5-2-13901-2-3-way-cfb-one-way-audio-or-no-audio-on-3rd/td-p/3184942,0
+Cisco Tomcat consume too much memory,09-13-2017,241,4,0,https://supportforums.cisco.com//t5/ip-telephony/cisco-tomcat-consume-too-much-memory/td-p/3183524,0
+IP Phone Boot Loop,08-29-2017,232,6,0,https://supportforums.cisco.com//t5/ip-telephony/ip-phone-boot-loop/td-p/3177360,0
+CUCM 85 Publisher is Down No Changes ,09-07-2013,5261,10,20,https://supportforums.cisco.com//t5/ip-telephony/cucm-8-5-publisher-is-down-no-changes-allowed-to-subscriber/td-p/2331613,1
+dhcp voice scopes for 2 different optio,09-14-2017,165,4,10,https://supportforums.cisco.com//t5/ip-telephony/dhcp-voice-scopes-for-2-different-option-150-ip/td-p/3184403,1
+VG224VG310 Auto registration to CUCM,09-15-2017,136,2,5,https://supportforums.cisco.com//t5/ip-telephony/vg224-vg310-auto-registration-to-cucm/td-p/3184877,0
+Integration between CUCM and Alcatel om,09-16-2017,213,1,0,https://supportforums.cisco.com//t5/ip-telephony/integration-between-cucm-and-alcatel-omnipcx-m2/td-p/3184986,0
+How to disable Extension Mobility Set ,09-15-2017,307,4,20,https://supportforums.cisco.com//t5/ip-telephony/how-to-disable-extension-mobility-quot-set-pin-quot-on-cucm-11-5/td-p/3184570,0
+Cisco 7821 Phone  Need to Set to VPN U,09-15-2017,167,1,0,https://supportforums.cisco.com//t5/ip-telephony/cisco-7821-phone-need-to-set-to-vpn-use-for-home-user/td-p/3184787,0
+Cisco CUBE  Need to map 480 Temp Unava,09-07-2017,184,5,0,https://supportforums.cisco.com//t5/ip-telephony/cisco-cube-need-to-map-480-temp-unavailable-to-another-response/td-p/3181468,0
+Provisioning Cisco Small Business Phone,09-15-2017,108,1,0,https://supportforums.cisco.com//t5/ip-telephony/provisioning-cisco-small-business-phones-spa-series/td-p/3184641,0
+Attendant Console Advanced  Calling Pa,09-15-2017,120,0,0,https://supportforums.cisco.com//t5/ip-telephony/attendant-console-advanced-calling-party-transformation/td-p/3184699,0
+CP3905  asterisk,06-27-2012,11785,8,0,https://supportforums.cisco.com//t5/ip-telephony/cp-3905-asterisk/td-p/1995981,0
+Connect Ip Phone 303 to a telephone num,09-15-2017,155,1,0,https://supportforums.cisco.com//t5/ip-telephony/connect-ip-phone-303-to-a-telephone-number/td-p/3184560,0
+Call Manager Express CME 105  TELKO,09-13-2017,164,4,0,https://supportforums.cisco.com//t5/ip-telephony/call-manager-express-cme-10-5-telkom-south-africa-bri/td-p/3183633,0
+CUCM 11511290021,09-06-2017,343,4,5,https://supportforums.cisco.com//t5/ip-telephony/cucm-11-5-1-12900-21/td-p/3180543,1
+IP PHONE,09-14-2017,155,2,5,https://supportforums.cisco.com//t5/ip-telephony/ip-phone/td-p/3184313,0
+CUCM 105  CCMUser page directory miss,10-20-2014,482,3,5,https://supportforums.cisco.com//t5/ip-telephony/cucm-10-5-ccmuser-page-directory-missing/td-p/2601235,0
+No is incorrect response on 6945,09-11-2017,122,5,0,https://supportforums.cisco.com//t5/ip-telephony/no-is-incorrect-response-on-6945/td-p/3182382,0
+Really need CUBE configuration,09-13-2017,182,5,0,https://supportforums.cisco.com//t5/ip-telephony/really-need-cube-configuration/td-p/3183809,0
+Unity unheard messages in mailboxes,09-14-2017,144,4,5,https://supportforums.cisco.com//t5/ip-telephony/unity-unheard-messages-in-mailboxes/td-p/3184183,1
+q931 messages on currently unused is,09-14-2017,186,2,0,https://supportforums.cisco.com//t5/ip-telephony/q-931-messages-on-quot-currently-unused-quot-isdn-trunk/td-p/3184154,1
+UNDERSTANDING SIP TRACES,08-31-2017,601,18,5,https://supportforums.cisco.com//t5/ip-telephony/understanding-sip-traces/td-p/3178753,0
+Auto delete UC Backup on file share ,09-14-2017,181,2,0,https://supportforums.cisco.com//t5/ip-telephony/auto-delete-uc-backup-on-file-share/td-p/3183964,1
+IP Communicator Black Screen,03-05-2013,14444,16,15,https://supportforums.cisco.com//t5/ip-telephony/ip-communicator-black-screen/td-p/2139647,0
+Why to use OPUS Codec and what are draw,09-14-2017,354,0,0,https://supportforums.cisco.com//t5/ip-telephony/why-to-use-opus-codec-and-what-are-drawback-s/td-p/3183963,0
+CUBE  SIP Multi Tenant  Limit,09-13-2017,219,2,0,https://supportforums.cisco.com//t5/ip-telephony/cube-sip-multi-tenant-limit/td-p/3183656,0
+Phone automatically connect with speake,09-12-2017,158,4,5,https://supportforums.cisco.com//t5/ip-telephony/phone-automatically-connect-with-speaker/td-p/3183332,1
+CUBE Call Forwarding prepends ,09-13-2017,139,1,0,https://supportforums.cisco.com//t5/ip-telephony/cube-call-forwarding-prepends/td-p/3183802,0
+7832 MRA,03-22-2017,543,4,6,https://supportforums.cisco.com//t5/ip-telephony/7832-mra/td-p/3010101,1
+Unity Connection Call Handler Input ign,09-13-2017,506,5,5,https://supportforums.cisco.com//t5/ip-telephony/unity-connection-call-handler-input-ignores-from-external-phones/td-p/3183412,1
+Few users are not showing up in Corpora,12-08-2014,2483,14,0,https://supportforums.cisco.com//t5/ip-telephony/few-users-are-not-showing-up-in-corporate-directory/td-p/2606572,1
+ARC CUCM CTI Route point problem,09-12-2017,211,3,0,https://supportforums.cisco.com//t5/ip-telephony/arc-cucm-cti-route-point-problem/td-p/3182842,1
+SIP MTP,09-08-2017,144,3,0,https://supportforums.cisco.com//t5/ip-telephony/sip-mtp/td-p/3181691,0
+sip 20 487 request cancelled  Sip out,08-15-2017,2758,13,11,https://supportforums.cisco.com//t5/ip-telephony/sip-2-0-487-request-cancelled-sip-outoing-call-issue-on-cube/td-p/3094323,0
+MGCP QSIG E1 PRI Simens IP Phone Calle,09-13-2017,100,0,0,https://supportforums.cisco.com//t5/ip-telephony/mgcp-qsig-e1-pri-simens-ip-phone-callers-not-hearing-any-ring/td-p/3183475,0
+Cisco 4331 does not route DID calls acc,09-06-2017,253,11,0,https://supportforums.cisco.com//t5/ip-telephony/cisco-4331-does-not-route-did-calls-according-to-translation/td-p/3180457,0
+Outbound calls not working,09-13-2017,102,1,0,https://supportforums.cisco.com//t5/ip-telephony/outbound-calls-not-working/td-p/3183429,0
+CTI PORTS MONITORING,04-25-2012,413,4,5,https://supportforums.cisco.com//t5/ip-telephony/cti-ports-monitoring/td-p/1907810,0
+ATA190 SNMP MIB files,09-12-2017,178,2,0,https://supportforums.cisco.com//t5/ip-telephony/ata190-snmp-mib-files/td-p/3182851,0
+Monitoring SNMP status for SIP phones o,09-13-2017,791,0,0,https://supportforums.cisco.com//t5/ip-telephony/monitoring-snmp-status-for-sip-phones-on-cme-10-5-need-help/td-p/3183406,0
+callername tcl script on 4321 IOS XE,09-05-2017,101,2,0,https://supportforums.cisco.com//t5/ip-telephony/callername-tcl-script-on-4321-ios-xe/td-p/3179975,0
+Transcoder location question,09-11-2017,166,4,0,https://supportforums.cisco.com//t5/ip-telephony/transcoder-location-question/td-p/3182475,0
+Upgrade CUP 91 to 115 no login after ,09-12-2017,186,1,0,https://supportforums.cisco.com//t5/ip-telephony/upgrade-cup-9-1-to-11-5-no-login-after-that/td-p/3183352,1
+Cisco IP Phone 7940 Series,10-04-2012,349,1,0,https://supportforums.cisco.com//t5/ip-telephony/cisco-ip-phone-7940-series/td-p/2026797,0
+SPA112 is not being registered with cal,09-12-2014,139,1,0,https://supportforums.cisco.com//t5/ip-telephony/spa112-is-not-being-registered-with-call-manager-version-7-1-3/td-p/2542515,0
+Cisco 7965 VoIp phone Calls on hold do ,01-13-2016,107,5,0,https://supportforums.cisco.com//t5/ip-telephony/cisco-7965-voip-phone-calls-on-hold-do-not-display-on-the-screen/td-p/2775588,1
+URL on line button  7900 phone,03-01-2011,57,1,0,https://supportforums.cisco.com//t5/ip-telephony/url-on-line-button-7900-phone/td-p/1581769,0
+Cisco 7940g,04-23-2010,552,1,0,https://supportforums.cisco.com//t5/ip-telephony/cisco-7940g/td-p/1424045,0
+Cisco FXO dialby extension not working,09-12-2017,96,0,0,https://supportforums.cisco.com//t5/ip-telephony/cisco-fxo-dial-by-extension-not-working/td-p/3183184,0
+Fax Machine,09-12-2017,124,3,0,https://supportforums.cisco.com//t5/ip-telephony/fax-machine/td-p/3182878,0
+Dividing of PVDM332 for configuration ,09-12-2017,145,1,5,https://supportforums.cisco.com//t5/ip-telephony/dividing-of-pvdm3-32-for-configuration-2-e1-ports/td-p/3182963,1
+Unable to Clear Stuck Calls in Voice Ga,09-11-2017,387,2,0,https://supportforums.cisco.com//t5/ip-telephony/unable-to-clear-stuck-calls-in-voice-gateway/td-p/3182395,0
+C1861 CUE question,08-10-2013,678,8,0,https://supportforums.cisco.com//t5/ip-telephony/c1861-cue-question/td-p/2345238,0
+Screen Lock IP Phone 8800 series ,11-01-2016,309,5,0,https://supportforums.cisco.com//t5/ip-telephony/screen-lock-ip-phone-8800-series/td-p/2936476,1
+Locking Cisco IP Phone Using Key Sequen,01-18-2017,287,9,0,https://supportforums.cisco.com//t5/ip-telephony/locking-cisco-ip-phone-using-key-sequence/td-p/3016073,0
+Cisco IP Communicator,08-03-2011,326,5,0,https://supportforums.cisco.com//t5/ip-telephony/cisco-ip-communicator/td-p/1734764,0
+lock and unlock feature for CUCM with t,06-20-2017,102,4,0,https://supportforums.cisco.com//t5/ip-telephony/lock-and-unlock-feature-for-cucm-with-the-same-directory-number/td-p/3083749,0
+ip phone,09-11-2017,166,3,0,https://supportforums.cisco.com//t5/ip-telephony/ip-phone/td-p/3182811,1
+SIP20 481 Call LegTransaction Does N,09-11-2017,1249,4,0,https://supportforums.cisco.com//t5/ip-telephony/sip-2-0-481-call-leg-transaction-does-not-exist/td-p/3182401,0
+connection issue UCS C220 server to the,09-11-2017,81,1,0,https://supportforums.cisco.com//t5/ip-telephony/connection-issue-ucs-c220-server-to-the-hp-procurve-switch/td-p/3182413,0
+Cisco 7841 IP Phone Firmware Update,09-10-2017,377,3,0,https://supportforums.cisco.com//t5/ip-telephony/cisco-7841-ip-phone-firmware-update/td-p/3182256,0
+E164 Dial Plan with noncontinuous DIDs,09-11-2017,152,2,0,https://supportforums.cisco.com//t5/ip-telephony/e164-dial-plan-with-noncontinuous-dids/td-p/3182656,0
+8800 Phone not detecting POE,09-11-2017,125,2,0,https://supportforums.cisco.com//t5/ip-telephony/8800-phone-not-detecting-poe/td-p/3182556,0
+Auto Conference  Emergency number,09-11-2017,152,1,0,https://supportforums.cisco.com//t5/ip-telephony/auto-conference-emergency-number/td-p/3182587,1
+Option 150 on DHCPv6,11-03-2013,435,2,0,https://supportforums.cisco.com//t5/ip-telephony/option-150-on-dhcpv6/td-p/2410527,0
+Line Updates,09-08-2017,158,5,5,https://supportforums.cisco.com//t5/ip-telephony/line-updates/td-p/3181698,1
+IP Phone provisioning doubts SelfProv,09-07-2017,161,2,0,https://supportforums.cisco.com//t5/ip-telephony/ip-phone-provisioning-doubts-self-prov-taps-bulk/td-p/3181264,1
+CUCM 115 Reporting,09-11-2017,107,1,5,https://supportforums.cisco.com//t5/ip-telephony/cucm-11-5-reporting/td-p/3182414,1
+upgrade to 8845 handset screen showing ,09-10-2017,138,4,0,https://supportforums.cisco.com//t5/ip-telephony/upgrade-to-8845-handset-screen-showing-unprovisioned/td-p/3182143,0
+Configuring SPA122 as a remote extensio,09-10-2017,536,1,0,https://supportforums.cisco.com//t5/ip-telephony/configuring-spa122-as-a-remote-extension-on-a-3cx-pbx/td-p/3182203,0
+LDAP Integration Cisco UCM 10,09-10-2017,113,1,5,https://supportforums.cisco.com//t5/ip-telephony/ldap-integration-cisco-ucm-10/td-p/3182173,0
+Caller ID not showing when call is tran,09-08-2017,119,2,0,https://supportforums.cisco.com//t5/ip-telephony/caller-id-not-showing-when-call-is-transfer-from-uccx-in-cucm/td-p/3181922,0
+IP PHONE REGISTRATION ISSUES,08-31-2017,165,4,0,https://supportforums.cisco.com//t5/ip-telephony/ip-phone-registration-issues/td-p/3178329,0
+Getting HTTPS working for Phone Service,09-08-2017,103,0,0,https://supportforums.cisco.com//t5/ip-telephony/getting-https-working-for-phone-service/td-p/3181886,0
+LPCOR SIP IP phone applied to dialpeer,09-08-2017,116,0,0,https://supportforums.cisco.com//t5/ip-telephony/lpcor-sip-ip-phone-applied-to-dial-peer-pots/td-p/3181873,0
+Message Waiting Indicator MWI is not ,09-08-2017,82,0,0,https://supportforums.cisco.com//t5/ip-telephony/message-waiting-indicator-mwi-is-not-working-on-cisco-unity/td-p/3181834,0
+CME 86  Cannot Create Conference erro,09-08-2017,83,0,0,https://supportforums.cisco.com//t5/ip-telephony/cme-8-6-cannot-create-conference-error/td-p/3181755,0
+Fax Machine,09-07-2017,131,4,0,https://supportforums.cisco.com//t5/ip-telephony/fax-machine/td-p/3181366,0
+Help for CME 7001 config IP phone,09-07-2017,102,2,0,https://supportforums.cisco.com//t5/ip-telephony/help-for-cme-7-0-0-1-config-ip-phone/td-p/3181466,0
+DHCP Question,09-07-2017,119,2,5,https://supportforums.cisco.com//t5/ip-telephony/dhcp-question/td-p/3181379,1
+dropthrough BACD doesnt working,09-07-2017,115,4,0,https://supportforums.cisco.com//t5/ip-telephony/drop-through-b-acd-doesn-t-working/td-p/3181208,0
+IP Phone CP7965G dhcp warning,03-29-2016,167,1,0,https://supportforums.cisco.com//t5/ip-telephony/ip-phone-cp-7965g-dhcp-warning/td-p/2919033,1
+CUCM 86 EXtension Mobility Logging,11-28-2012,6278,13,20,https://supportforums.cisco.com//t5/ip-telephony/cucm-8-6-extension-mobility-logging/td-p/2108176,0
+cucm huntgroup,09-07-2017,106,3,0,https://supportforums.cisco.com//t5/ip-telephony/cucm-huntgroup/td-p/3181046,0
+2911 or 2811 WITH 2 AIM CUE,04-11-2013,1101,9,25,https://supportforums.cisco.com//t5/ip-telephony/2911-or-2811-with-2-aim-cue/td-p/2184658,0
+Call transfer problem On cisco cme,09-04-2017,291,2,0,https://supportforums.cisco.com//t5/ip-telephony/call-transfer-problem-on-cisco-cme/td-p/3179706,0
+SIP Phones Not registering in CUCME,09-07-2017,130,1,0,https://supportforums.cisco.com//t5/ip-telephony/sip-phones-not-registering-in-cucme/td-p/3181012,0
+Auth fail on 7941 and 7970 IP phones,12-21-2010,4572,8,15,https://supportforums.cisco.com//t5/ip-telephony/auth-fail-on-7941-and-7970-ip-phones/td-p/1622138,1
+not able to configure ATA 190 in CME,09-07-2017,133,0,0,https://supportforums.cisco.com//t5/ip-telephony/not-able-to-configure-ata-190-in-cme/td-p/3181076,0
+Cisco 8865 Hedset bep bep problem,09-07-2017,125,7,5,https://supportforums.cisco.com//t5/ip-telephony/cisco-8865-hedset-bep-bep-problem/td-p/3181021,1
+Cisco 3905 SIP phones registration erro,12-07-2013,4314,10,0,https://supportforums.cisco.com//t5/ip-telephony/cisco-3905-sip-phones-registration-error-and-provisioning/td-p/2372166,0
+CUCM Disk partition,09-07-2017,287,1,0,https://supportforums.cisco.com//t5/ip-telephony/cucm-disk-partition/td-p/3180996,0
+Enterprise License Manager Changing of,09-07-2017,186,2,10,https://supportforums.cisco.com//t5/ip-telephony/enterprise-license-manager-changing-of-administrator-username/td-p/3180951,1
+SPA 525g failed to get registered on CM,09-05-2017,257,3,0,https://supportforums.cisco.com//t5/ip-telephony/spa-525g-failed-to-get-registered-on-cme/td-p/3180325,0
+unable to dial international call,09-06-2017,143,2,10,https://supportforums.cisco.com//t5/ip-telephony/unable-to-dial-international-call/td-p/3180689,1
+softkey position in 8821 phones,09-06-2017,119,0,0,https://supportforums.cisco.com//t5/ip-telephony/softkey-position-in-8821-phones/td-p/3180859,0
+MOH is not working for Internal Calls o,09-07-2015,588,14,0,https://supportforums.cisco.com//t5/ip-telephony/moh-is-not-working-for-internal-calls-only/td-p/2729551,0
+TFTP not authorized is showing on the 7,03-30-2015,1167,11,15,https://supportforums.cisco.com//t5/ip-telephony/tftp-not-authorized-is-showing-on-the-7921-ip-phone/td-p/2623098,0
+Cisco phone configured for eaptls chos,09-06-2017,74,0,0,https://supportforums.cisco.com//t5/ip-telephony/cisco-phone-configured-for-eap-tls-chose-md5-instead/td-p/3180604,0
+Cisco 8831ip phone,09-05-2017,108,3,0,https://supportforums.cisco.com//t5/ip-telephony/cisco-8831ip-phone/td-p/3180312,0
+IP Phone 7821 Dont show missed calls,09-06-2017,279,0,0,https://supportforums.cisco.com//t5/ip-telephony/ip-phone-7821-don-t-show-missed-calls/td-p/3180562,0
+CUCM 105 Self Provisioning Variable Ma,12-26-2014,349,4,0,https://supportforums.cisco.com//t5/ip-telephony/cucm-10-5-self-provisioning-variable-masks-possible/td-p/2578064,0
+cancelling PLAR hotdial on CUCM v110,09-06-2017,97,1,0,https://supportforums.cisco.com//t5/ip-telephony/cancelling-plar-hotdial-on-cucm-v11-0/td-p/3180541,0
+CCME Extension Mobility logging questio,09-04-2017,153,4,0,https://supportforums.cisco.com//t5/ip-telephony/ccme-extension-mobility-logging-question/td-p/3179755,1
+ATA190 with Call Manager Express 91,09-05-2017,104,1,0,https://supportforums.cisco.com//t5/ip-telephony/ata190-with-call-manager-express-9-1/td-p/3180450,0
+Tar file not created error on automated,04-20-2015,648,3,0,https://supportforums.cisco.com//t5/ip-telephony/tar-file-not-created-error-on-automated-backup/td-p/2623024,0
+Help with SIP to PRI to SIP using two A,09-05-2017,81,0,0,https://supportforums.cisco.com//t5/ip-telephony/help-with-sip-to-pri-to-sip-using-two-as5400-gw-s/td-p/3180379,0
+How to emulate ring group in CUCM,09-05-2017,157,1,5,https://supportforums.cisco.com//t5/ip-telephony/how-to-emulate-ring-group-in-cucm/td-p/3180391,0
+Scheduled Server and Device Reboots  C,09-05-2017,75,1,0,https://supportforums.cisco.com//t5/ip-telephony/scheduled-server-and-device-reboots-cucm-cuc-imp-phones/td-p/3180194,0
+Remote Destination Schedule,08-31-2017,140,4,5,https://supportforums.cisco.com//t5/ip-telephony/remote-destination-schedule/td-p/3178534,0
+RTMT and Timezone Selction for Search i,09-05-2017,95,0,0,https://supportforums.cisco.com//t5/ip-telephony/rtmt-and-timezone-selction-for-search-in-realtime-data/td-p/3180278,0
+Upgrading Old CUCM 701 Hardware,02-02-2011,362,1,0,https://supportforums.cisco.com//t5/ip-telephony/upgrading-old-cucm-7-0-1-hardware/td-p/1607520,0
+Barge on CUCM 11,10-11-2016,825,4,10,https://supportforums.cisco.com//t5/ip-telephony/barge-on-cucm-11/td-p/2999236,0
+CUCM upgrade fron ver 7x to 9x,03-26-2014,96,2,0,https://supportforums.cisco.com//t5/ip-telephony/cucm-upgrade-fron-ver-7-x-to-9-x/td-p/2448824,0
+upgrade 702200005 to 7X,03-14-2011,462,6,10,https://supportforums.cisco.com//t5/ip-telephony/upgrade-7-0-2-20000-5-to-7-x/td-p/1589928,1
+CUCM Upgrade from 702 to CUCM 715,04-07-2011,674,5,0,https://supportforums.cisco.com//t5/ip-telephony/cucm-upgrade-from-7-0-2-to-cucm-7-1-5-su3/td-p/1685113,0
+Directory Issue,09-05-2017,60,2,0,https://supportforums.cisco.com//t5/ip-telephony/directory-issue/td-p/3180146,0
+Configure trust for dscp or cos in Swit,09-05-2017,70,0,0,https://supportforums.cisco.com//t5/ip-telephony/configure-trust-for-dscp-or-cos-in-switch3750/td-p/3180214,0
+Cisco RTMT Performance Tomcat Connector,08-30-2017,101,0,0,https://supportforums.cisco.com//t5/ip-telephony/cisco-rtmt-performance-tomcat-connector-counters/td-p/3177938,0
+InterInter Cluster SIP Trunking and Mo,09-05-2017,139,6,15,https://supportforums.cisco.com//t5/ip-telephony/inter-inter-cluster-sip-trunking-and-moh/td-p/3180067,0
+cisco 8800 series 8851 SIP change langu,09-05-2017,276,1,0,https://supportforums.cisco.com//t5/ip-telephony/cisco-8800-series-8851-sip-change-language-without-cucm/td-p/3180098,1
+CUCM IM  Presence 11511290025 Crit,09-01-2017,145,1,0,https://supportforums.cisco.com//t5/ip-telephony/cucm-im-amp-presence-11-5-1-12900-25-critical-error-on-install/td-p/3178978,0
+CME  call transfer dial tone,09-05-2017,64,0,0,https://supportforums.cisco.com//t5/ip-telephony/cme-call-transfer-dial-tone/td-p/3180126,0
+upgrade cucm 91 with solarwinds sftps,09-05-2017,227,7,0,https://supportforums.cisco.com//t5/ip-telephony/upgrade-cucm-9-1-with-solarwinds-sftp-scp-not-working/td-p/3180019,0
+Issue with disk on call manager using U,09-05-2017,105,1,0,https://supportforums.cisco.com//t5/ip-telephony/issue-with-disk-on-call-manager-using-ucs-m220-urgent/td-p/3179968,1
+Updating ASCII Display Caller ID on M,09-01-2017,270,3,0,https://supportforums.cisco.com//t5/ip-telephony/updating-ascii-display-caller-id-on-multiple-device-profile-cucm/td-p/3178840,1
+Custom ringtone,09-05-2017,281,0,0,https://supportforums.cisco.com//t5/ip-telephony/custom-ringtone/td-p/3179960,0
+Does Cisco 7861 supports DNS SRV,06-21-2017,84,3,0,https://supportforums.cisco.com//t5/ip-telephony/does-cisco-7861-supports-dns-srv/td-p/3007250,0
+Dictionary cp7861 3PCC fw,05-24-2017,72,2,0,https://supportforums.cisco.com//t5/ip-telephony/dictionary-cp7861-3pcc-fw/td-p/3051861,0
+CUBE SIPtoSIP passthru content sdp,09-12-2013,11666,13,20,https://supportforums.cisco.com//t5/ip-telephony/cube-sip-to-sip-quot-pass-thru-content-sdp-quot-the-dtmf-relay/td-p/2295641,0
+uccx script,09-04-2017,94,0,0,https://supportforums.cisco.com//t5/ip-telephony/uccx-script/td-p/3179894,0
+Forward all not working on CUCM 1151,09-04-2017,107,4,0,https://supportforums.cisco.com//t5/ip-telephony/forward-all-not-working-on-cucm-11-5-1/td-p/3179793,0
+New Install  CUCM login via console V,09-04-2017,271,3,5,https://supportforums.cisco.com//t5/ip-telephony/new-install-cucm-login-via-console-vmware-works-but-not-web/td-p/3179831,1
+CUCM 1105 Multiply Servers Detected,09-04-2017,106,1,0,https://supportforums.cisco.com//t5/ip-telephony/cucm-11-05-multiply-servers-detected/td-p/3179678,0
+Conversation between CCME with internal,04-27-2017,53,9,0,https://supportforums.cisco.com//t5/ip-telephony/conversation-between-ccme-with-internal-extensions/td-p/3007919,0
+IP CommunicatorCIPC compatible handset,10-17-2014,328,2,0,https://supportforums.cisco.com//t5/ip-telephony/ip-communicator-cipc-compatible-handsets/td-p/2592798,0
+PSTN call not working for new subscribe,09-03-2017,85,3,0,https://supportforums.cisco.com//t5/ip-telephony/pstn-call-not-working-for-new-subscribers/td-p/3179391,0
+How to obtain mac address via serial nu,11-02-2012,3992,5,0,https://supportforums.cisco.com//t5/ip-telephony/how-to-obtain-mac-address-via-serial-number-cisco-ip-phones/td-p/2052837,0
+CUCM ISO,09-02-2017,256,6,0,https://supportforums.cisco.com//t5/ip-telephony/cucm-iso/td-p/3179356,0
+SIP Phone 3rd Party failed to register ,09-03-2017,195,0,0,https://supportforums.cisco.com//t5/ip-telephony/sip-phone-3rd-party-failed-to-register-with-cme-v12/td-p/3179482,0
+C2951VSEC CME Sipgatede Trunkconfig,09-01-2017,201,1,5,https://supportforums.cisco.com//t5/ip-telephony/c2951vsec-cme-sipgate-de-trunk-config/td-p/3179088,1
+Route Pattern Examples for CUCM in Japa,08-31-2017,286,3,0,https://supportforums.cisco.com//t5/ip-telephony/route-pattern-examples-for-cucm-in-japan/td-p/3178392,0
+Have I bricked my 7965,09-02-2017,111,0,0,https://supportforums.cisco.com//t5/ip-telephony/have-i-bricked-my-7965/td-p/3179262,0
+Year not showing on 8841,09-01-2017,94,1,0,https://supportforums.cisco.com//t5/ip-telephony/year-not-showing-on-8841/td-p/3178972,0
+Bulk Administration  Directory Number ,02-11-2017,459,5,0,https://supportforums.cisco.com//t5/ip-telephony/bulk-administration-directory-number-voicemail-profile/td-p/3062701,1
+911 calls are going to a different PSAP,08-30-2017,235,11,20,https://supportforums.cisco.com//t5/ip-telephony/911-calls-are-going-to-a-different-psap-that-the-one-in-local/td-p/3178042,0
+Prioritising PRI lines on Cisco VOIP Ga,09-01-2017,67,2,0,https://supportforums.cisco.com//t5/ip-telephony/prioritising-pri-lines-on-cisco-voip-gateway/td-p/3178947,0
+Cannot Delete a Phone  CUCM 115,09-01-2017,139,2,0,https://supportforums.cisco.com//t5/ip-telephony/cannot-delete-a-phone-cucm-11-5/td-p/3178837,0
+7962 VOIP Phone Dies After switch upgra,08-13-2014,278,6,0,https://supportforums.cisco.com//t5/ip-telephony/7962-voip-phone-dies-after-switch-upgrade-reboot/td-p/2521951,0
+Unable to login to Cisco Unified Presen,04-17-2013,1336,10,0,https://supportforums.cisco.com//t5/ip-telephony/unable-to-login-to-cisco-unified-presence-administration/td-p/2160976,1
+Cisco Device Licenses,08-30-2017,110,1,0,https://supportforums.cisco.com//t5/ip-telephony/cisco-device-licenses/td-p/3178070,0
+LSC  Authenticated Encrypted and null ,08-31-2017,195,1,0,https://supportforums.cisco.com//t5/ip-telephony/lsc-authenticated-encrypted-and-null-string-cipc-phones-ctl-file/td-p/3178446,0
+Problem dialing from VCS endpoint to CU,08-31-2017,88,4,0,https://supportforums.cisco.com//t5/ip-telephony/problem-dialing-from-vcs-endpoint-to-cucm-video-enpoint/td-p/3178521,0
+T1 CAS nfas  No outbound and Inbound,08-31-2017,287,6,5,https://supportforums.cisco.com//t5/ip-telephony/t1-cas-nfas-no-outbound-and-inbound-calls-after-a-power-outage/td-p/3178592,1
+CME change 4 digit DN to DID and have 1,08-29-2017,147,2,5,https://supportforums.cisco.com//t5/ip-telephony/cme-change-4-digit-dn-to-did-and-have-10-digit-dialing-too/td-p/3177503,1
+No Engaged Tone,05-26-2009,186,4,0,https://supportforums.cisco.com//t5/ip-telephony/no-engaged-tone/td-p/1161618,0
+How to configure Call Forward No Answer,09-10-2012,3387,4,0,https://supportforums.cisco.com//t5/ip-telephony/how-to-configure-call-forward-no-answer/td-p/2070065,1
+Cisco 7821 DTMF Issue,05-30-2017,153,1,0,https://supportforums.cisco.com//t5/ip-telephony/cisco-7821-dtmf-issue/td-p/3074044,0
+CME standalone site configuration with ,08-30-2017,104,2,0,https://supportforums.cisco.com//t5/ip-telephony/cme-standalone-site-configuration-with-sip/td-p/3178107,0
+CUBE with one interfaceIP,08-30-2017,249,4,3,https://supportforums.cisco.com//t5/ip-telephony/cube-with-one-interface-ip/td-p/3177869,0
+CUE plays the recipient as Message Fro,08-30-2017,72,1,0,https://supportforums.cisco.com//t5/ip-telephony/cue-plays-the-recipient-as-quot-message-from-quot-instead-of/td-p/3178155,0
+Route Pattern with Pause in CUCM 105,03-31-2015,1437,9,10,https://supportforums.cisco.com//t5/ip-telephony/route-pattern-with-pause-in-cucm-10-5/td-p/2634246,0
+Display App Webpage Video on Cisco p,08-30-2017,305,1,0,https://supportforums.cisco.com//t5/ip-telephony/display-app-web-page-video-on-cisco-phone-8841/td-p/3178113,1
+ATA 190 Long distance faxing,08-30-2017,81,1,0,https://supportforums.cisco.com//t5/ip-telephony/ata-190-long-distance-faxing/td-p/3178090,0
+Unity Connectin 9 to 11 installation fa,08-29-2017,87,2,0,https://supportforums.cisco.com//t5/ip-telephony/unity-connectin-9-to-11-installation-fails/td-p/3177475,0
+Upgrading CUCMUnity Connection when ru,08-17-2017,145,5,1,https://supportforums.cisco.com//t5/ip-telephony/upgrading-cucm-unity-connection-when-running-on-insufficient/td-p/3096388,1
+IP phone 7821 SIP switch to SCCP,08-30-2017,201,1,0,https://supportforums.cisco.com//t5/ip-telephony/ip-phone-7821-sip-switch-to-sccp/td-p/3177963,1
+Placing phone calls on hold to make int,08-29-2017,80,2,0,https://supportforums.cisco.com//t5/ip-telephony/placing-phone-calls-on-hold-to-make-intercom-call/td-p/3177412,0
+IP Phone 7940 series only dials Alpha C,08-30-2017,67,2,1,https://supportforums.cisco.com//t5/ip-telephony/ip-phone-7940-series-only-dials-alpha-characters/td-p/3177836,0
+CUCM 115 issue enabling SSO,03-23-2017,534,2,5,https://supportforums.cisco.com//t5/ip-telephony/cucm-11-5-issue-enabling-sso/td-p/3013158,0
+Trying to configureunderstand early me,02-01-2012,1652,11,19,https://supportforums.cisco.com//t5/ip-telephony/trying-to-configure-understand-early-media/td-p/1855862,0
+EMCC call routing between cluster,01-07-2014,519,6,9,https://supportforums.cisco.com//t5/ip-telephony/emcc-call-routing-between-cluster/td-p/2415412,0
+IP phone 88613PCC and key expansion mo,07-26-2017,603,7,0,https://supportforums.cisco.com//t5/ip-telephony/ip-phone-8861-3pcc-and-key-expansion-module-does-not-work/td-p/3094997,0
+CUCM 11  The attempted action was a vi,04-03-2017,316,6,5,https://supportforums.cisco.com//t5/ip-telephony/cucm-11-the-attempted-action-was-a-violation-of-security/td-p/3060240,0
+RTMT alert when the CUCM not sending CD,05-08-2017,73,5,0,https://supportforums.cisco.com//t5/ip-telephony/rtmt-alert-when-the-cucm-not-sending-cdr-to-call-accounting/td-p/3056235,0
+Phone book CME,08-25-2017,163,2,0,https://supportforums.cisco.com//t5/ip-telephony/phone-book-cme/td-p/3175807,0
+what if Rapid Spanning Tree is enabled ,08-29-2017,81,2,0,https://supportforums.cisco.com//t5/ip-telephony/what-if-rapid-spanning-tree-is-enabled-in-non-redundant-network/td-p/3177111,0
+CME 86 with multiple DIDs,08-17-2017,165,6,0,https://supportforums.cisco.com//t5/ip-telephony/cme-8-6-with-multiple-did-s/td-p/3096542,1
+Moving to SIPdo I or do I not need an ,08-17-2017,523,12,1,https://supportforums.cisco.com//t5/ip-telephony/moving-to-sip-do-i-or-do-i-not-need-an-sbc/td-p/3096193,1
+VG320 ports are upup off hook  Nothin,08-28-2017,150,3,0,https://supportforums.cisco.com//t5/ip-telephony/vg320-ports-are-up-up-off-hook-nothing-is-connected/td-p/3176946,0
+UC USer delete,08-22-2017,180,14,5,https://supportforums.cisco.com//t5/ip-telephony/uc-user-delete/td-p/3174325,0
+devicepack request,08-29-2017,70,1,0,https://supportforums.cisco.com//t5/ip-telephony/devicepack-request/td-p/3177098,0
+CUCM 8 The onconfigccm file error,03-27-2011,6614,8,5,https://supportforums.cisco.com//t5/ip-telephony/cucm-8-the-onconfig-ccm-file-error/td-p/1605566,1
+IP TELPHONE,08-28-2017,119,3,0,https://supportforums.cisco.com//t5/ip-telephony/ip-telphone/td-p/3176965,1
+Normalization Script  remove UPDATE in,08-27-2017,319,3,0,https://supportforums.cisco.com//t5/ip-telephony/normalization-script-remove-update-in-allow-header-in-invite/td-p/3176381,0
+Automating Cisco Phone AddRemove pro,08-25-2017,125,3,0,https://supportforums.cisco.com//t5/ip-telephony/automating-cisco-phone-add-remove-process/td-p/3176070,1
+Cisco Service Provider WiFi  PPPoE Fe,08-27-2017,71,2,0,https://supportforums.cisco.com//t5/ip-telephony/cisco-service-provider-wi-fi-pppoe-feature-support/td-p/3176343,0
+Is UCM required for a DX70,08-28-2017,109,2,1,https://supportforums.cisco.com//t5/ip-telephony/is-ucm-required-for-a-dx70/td-p/3176750,1
+Cisco VG204xm configuration,08-24-2017,194,6,1,https://supportforums.cisco.com//t5/ip-telephony/cisco-vg204xm-configuration/td-p/3175382,1
+CUCM 105  2911 Gateway PRI Individual,08-28-2017,117,5,0,https://supportforums.cisco.com//t5/ip-telephony/cucm-10-5-amp-2911-gateway-pri-individual-line-access/td-p/3176770,1
+Route Patterns with Calling party trans,06-06-2017,89,3,1,https://supportforums.cisco.com//t5/ip-telephony/route-patterns-with-calling-party-translation/td-p/3025282,1
+Hunt pilot disconnect calls,08-27-2017,122,3,0,https://supportforums.cisco.com//t5/ip-telephony/hunt-pilot-disconnect-calls/td-p/3176260,0
+Cisco IMP Sync Agent issues,08-23-2017,508,4,10,https://supportforums.cisco.com//t5/ip-telephony/cisco-im-amp-p-sync-agent-issues/td-p/3174736,1
+Can not configure Expansion Module cisc,08-23-2017,142,6,1,https://supportforums.cisco.com//t5/ip-telephony/can-not-configure-expansion-module-cisco-7915/td-p/3174658,0
+Subscriber is unreachable After Reset t,08-22-2017,95,4,6,https://supportforums.cisco.com//t5/ip-telephony/subscriber-is-unreachable-after-reset-the-virtual-server/td-p/3174176,0
+Transform PSTN Number to internal Numbe,08-25-2017,148,2,0,https://supportforums.cisco.com//t5/ip-telephony/transform-pstn-number-to-internal-number/td-p/3176103,0
+CUE backup,08-26-2017,77,0,0,https://supportforums.cisco.com//t5/ip-telephony/cue-backup/td-p/3176199,0
+3905 multi issues help needed,08-22-2017,150,4,0,https://supportforums.cisco.com//t5/ip-telephony/3905-multi-issues-help-needed/td-p/3174125,0
+Cannot cBarge with 8800 series phones,08-14-2017,171,6,0,https://supportforums.cisco.com//t5/ip-telephony/cannot-cbarge-with-8800-series-phones/td-p/3093372,0
+Generic SIP Phone Features with CCM,08-25-2017,68,1,0,https://supportforums.cisco.com//t5/ip-telephony/generic-sip-phone-features-with-ccm/td-p/3176038,0
+protocol application invalid,08-22-2017,1143,2,0,https://supportforums.cisco.com//t5/ip-telephony/protocol-application-invalid/td-p/3173923,1
+Transform PSTN external calls to intern,12-06-2013,420,9,0,https://supportforums.cisco.com//t5/ip-telephony/transform-pstn-external-calls-to-internal-cucm-directory-number/td-p/2365028,1
+IPPhones with DNS configuration,12-03-2015,2884,10,4,https://supportforums.cisco.com//t5/ip-telephony/ip-phones-with-dns-configuration/td-p/2796313,0
+VOICE traffic Over data network,08-23-2017,142,4,6,https://supportforums.cisco.com//t5/ip-telephony/voice-traffic-over-data-network/td-p/3174768,0
+DTMF on SIP Trunk,07-21-2016,302,4,0,https://supportforums.cisco.com//t5/ip-telephony/dtmf-on-sip-trunk/td-p/2953991,0
+Incoming SIP Call CUBECUCM transfer Ca,07-30-2017,150,6,0,https://supportforums.cisco.com//t5/ip-telephony/incoming-sip-call-cube-cucm-transfer-caller-id/td-p/3097140,0
+Consultation on License Usage Report,12-05-2013,3561,8,14,https://supportforums.cisco.com//t5/ip-telephony/consultation-on-license-usage-report/td-p/2355982,0
+Administrator Password for Cisco 8831,06-04-2015,1779,3,0,https://supportforums.cisco.com//t5/ip-telephony/administrator-password-for-cisco-8831/td-p/2695668,1
+VG 350,10-09-2016,116,2,1,https://supportforums.cisco.com//t5/ip-telephony/vg-350/td-p/2989483,1
+MGCP converting IP to FQDN,05-17-2016,191,5,1,https://supportforums.cisco.com//t5/ip-telephony/mgcp-converting-ip-to-fqdn/td-p/2859877,0
+Set a background using CiscoIPPhoneExec,08-25-2017,86,0,0,https://supportforums.cisco.com//t5/ip-telephony/set-a-background-using-ciscoipphoneexecute/td-p/3175924,0
+How can we share screen during conferen,08-17-2017,588,8,5,https://supportforums.cisco.com//t5/ip-telephony/how-can-we-share-screen-during-conference-call-on-cisco-jabber/td-p/3095998,1
+Horizontal streak on Fax,06-20-2016,76,1,0,https://supportforums.cisco.com//t5/ip-telephony/horizontal-streak-on-fax/td-p/2879362,0
+Upgrade UCCX v91 to 115su2 procedur,08-25-2017,75,1,0,https://supportforums.cisco.com//t5/ip-telephony/upgrade-uccx-v9-1-to-11-5-su2-procedure/td-p/3175769,1
+Cisco CME Call forwarding to mobile num,08-24-2017,708,2,0,https://supportforums.cisco.com//t5/ip-telephony/cisco-cme-call-forwarding-to-mobile-number/td-p/3175325,1
+call manager redial issue,08-11-2017,245,10,0,https://supportforums.cisco.com//t5/ip-telephony/call-manager-redial-issue/td-p/3092239,1
+SSO CUCM Jabber,08-25-2017,105,0,0,https://supportforums.cisco.com//t5/ip-telephony/sso-cucm-jabber/td-p/3175806,0
+Two TFTP  Two Cluster and Phone regist,08-24-2017,420,7,1,https://supportforums.cisco.com//t5/ip-telephony/two-tftp-two-cluster-and-phone-registration/td-p/3175392,1
+CUBE Licensing in 29XX39XX Routers,11-04-2010,19870,13,25,https://supportforums.cisco.com//t5/ip-telephony/cube-licensing-in-29xx-39xx-routers/td-p/1523383,1
+international calls over BRI the number,08-22-2017,158,7,5,https://supportforums.cisco.com//t5/ip-telephony/international-calls-over-bri-the-number-incomplete/td-p/3174233,0
+sftp cucm configuration for cucm upgrad,08-23-2017,407,8,0,https://supportforums.cisco.com//t5/ip-telephony/sftp-cucm-configuration-for-cucm-upgrade-not-working/td-p/3174598,1
+FXO and E1 configuration,08-22-2017,104,3,1,https://supportforums.cisco.com//t5/ip-telephony/fxo-and-e1-configuration/td-p/3174028,0
+Receiving and placing calls on hold whi,08-24-2017,119,2,1,https://supportforums.cisco.com//t5/ip-telephony/receiving-and-placing-calls-on-hold-while-on-intercom/td-p/3175326,0
+Cisco ISR 4K Voice Compatability,05-04-2015,5316,13,5,https://supportforums.cisco.com//t5/ip-telephony/cisco-isr-4k-voice-compatability/td-p/2696499,0
+NEC DECT I766 phone with CallManager 3,08-24-2017,84,0,0,https://supportforums.cisco.com//t5/ip-telephony/nec-dect-i766-phone-with-callmanager-3rd-party-sip-endpoint-as/td-p/3175438,0
+SRST outbond calls over SIP trunk issue,08-24-2017,147,6,0,https://supportforums.cisco.com//t5/ip-telephony/srst-outbond-calls-over-sip-trunk-issue/td-p/3175262,0
+How can i monitor IP phone through Call,08-24-2017,82,3,0,https://supportforums.cisco.com//t5/ip-telephony/how-can-i-monitor-ip-phone-through-callmanager/td-p/3175290,0
+CUBE mode border element what really d,12-08-2016,1147,7,0,https://supportforums.cisco.com//t5/ip-telephony/cube-mode-border-element-what-really-do/td-p/2942194,0
+Busy Tone when calling,07-09-2014,2345,22,0,https://supportforums.cisco.com//t5/ip-telephony/busy-tone-when-calling/td-p/2556912,0
+CUCM 105 backup error,08-09-2015,4581,19,23,https://supportforums.cisco.com//t5/ip-telephony/cucm-10-5-backup-error/td-p/2735916,0
+which sftp software recommendations for,08-24-2017,447,3,0,https://supportforums.cisco.com//t5/ip-telephony/which-sftp-software-recommendations-for-cucm-upgrade/td-p/3175202,0
+New Call not default to primary extensi,08-23-2017,56,1,0,https://supportforums.cisco.com//t5/ip-telephony/new-call-not-default-to-primary-extension-for-sip-8841/td-p/3175049,0
+How to configure Call Forward No Answer,08-24-2017,93,1,0,https://supportforums.cisco.com//t5/ip-telephony/how-to-configure-call-forward-no-answer/td-p/3175068,0
+Cisco SIP 7821 Phone CUCM Status Reject,08-24-2017,171,2,0,https://supportforums.cisco.com//t5/ip-telephony/cisco-sip-7821-phone-cucm-status-rejected/td-p/3175130,0
+CUCM 105 sip trunk call where the sour,08-24-2017,83,1,0,https://supportforums.cisco.com//t5/ip-telephony/cucm-10-5-sip-trunk-call-where-the-source-and-destination-are/td-p/3175095,0
+Incorrect time on Cisco 3905 on CUCME,04-11-2012,5494,11,0,https://supportforums.cisco.com//t5/ip-telephony/incorrect-time-on-cisco-3905-on-cucme/td-p/1940212,1
+Calling party transformation on SNR pro,08-17-2017,124,1,0,https://supportforums.cisco.com//t5/ip-telephony/calling-party-transformation-on-snr-profile/td-p/3096503,0
+IP Phone model 7821,08-23-2017,132,1,5,https://supportforums.cisco.com//t5/ip-telephony/ip-phone-model-7821/td-p/3174547,0
+VG analog ports and SRST,05-02-2017,239,6,0,https://supportforums.cisco.com//t5/ip-telephony/vg-analog-ports-and-srst/td-p/3025815,0
+No Ringback heard on incoming calls for,04-22-2012,2560,7,8,https://supportforums.cisco.com//t5/ip-telephony/no-ringback-heard-on-incoming-calls-form-pstn-when-transfered/td-p/1886113,1
+Incorrect time on 7841,04-22-2015,1804,10,10,https://supportforums.cisco.com//t5/ip-telephony/incorrect-time-on-7841/td-p/2633520,0
+Outbound Ringback Issues over SIP trunk,06-16-2012,12856,27,16,https://supportforums.cisco.com//t5/ip-telephony/outbound-ringback-issues-over-sip-trunk-using-cucm-8-6-and-h323/td-p/1988669,1
+What VM course fo CUCM,08-23-2017,63,1,0,https://supportforums.cisco.com//t5/ip-telephony/what-vm-course-fo-cucm/td-p/3174518,0
+IP Telephony  Can we use same VLAN for,08-23-2017,90,1,0,https://supportforums.cisco.com//t5/ip-telephony/ip-telephony-can-we-use-same-vlan-for-voice-and-data/td-p/3174527,0
+Expansion Module cisco 7915,11-24-2010,3201,3,0,https://supportforums.cisco.com//t5/ip-telephony/expansion-module-cisco-7915/td-p/1509383,1
+Incoming VOIP dialpeer matching in IOS,07-11-2016,387,9,1,https://supportforums.cisco.com//t5/ip-telephony/incoming-voip-dial-peer-matching-in-ios-is-session-protocol/td-p/2915329,0
+LPCOR  CDR  Call Accounting,08-23-2017,60,0,0,https://supportforums.cisco.com//t5/ip-telephony/lpcor-cdr-call-accounting/td-p/3174500,0
+ISDN layer 2 flapping,10-02-2008,663,6,0,https://supportforums.cisco.com//t5/ip-telephony/isdn-layer-2-flapping/td-p/1099981,0
+IP upgrade instead of cucm fallback whe,08-22-2017,109,5,0,https://supportforums.cisco.com//t5/ip-telephony/ip-upgrade-instead-of-cucm-fallback-when-primary-cucm-down/td-p/3174099,0
+How to configure CME on 4321 ISR router,08-22-2017,1182,5,0,https://supportforums.cisco.com//t5/ip-telephony/how-to-configure-cme-on-4321-isr-router/td-p/3173938,1
+No caller IDcalling number received fr,08-22-2017,427,3,0,https://supportforums.cisco.com//t5/ip-telephony/no-caller-id-calling-number-received-from-the-analog-gsm-gateway/td-p/3173920,0
+Trying to add user as assistant and rec,08-22-2017,58,1,0,https://supportforums.cisco.com//t5/ip-telephony/trying-to-add-user-as-assistant-and-receiving-this-error/td-p/3174234,0
+SIP Phones sending SIP Register Message,07-07-2014,244,5,1,https://supportforums.cisco.com//t5/ip-telephony/sip-phones-sending-sip-register-messages-to-srst-gateway/td-p/2555389,1
+7975 Dead after Hard Reset,08-21-2017,210,4,1,https://supportforums.cisco.com//t5/ip-telephony/7975-dead-after-hard-reset/td-p/3173790,0
+7945 shows pending for calling party ,11-18-2010,2466,8,50,https://supportforums.cisco.com//t5/ip-telephony/7945-shows-quot-pending-quot-for-calling-party-name-on-incoming/td-p/1541636,0
+RTMTALERTStandAloneCluster SyslogSeveri,08-21-2017,210,1,1,https://supportforums.cisco.com//t5/ip-telephony/rtmtalertstandalonecluster-syslogseveritymatchfound/td-p/3173823,0
+MOH Audio Source,08-17-2017,101,2,0,https://supportforums.cisco.com//t5/ip-telephony/moh-audio-source/td-p/3096259,1
+Configuring Cisco 8800 phones for VPN,03-13-2015,806,4,0,https://supportforums.cisco.com//t5/ip-telephony/configuring-cisco-8800-phones-for-vpn/td-p/2632778,0
+cisco ip phone 7940 series,07-25-2017,73,4,0,https://supportforums.cisco.com//t5/ip-telephony/cisco-ip-phone-7940-series/td-p/3093881,0
+I can´t apply timing hookflashoutput,08-22-2017,86,0,0,https://supportforums.cisco.com//t5/ip-telephony/i-can-t-apply-quot-timing-hookflash-output-quot-in-voice-port/td-p/3173926,0
+SIP IP phones 7911g cannot load ntp set,08-17-2017,106,2,0,https://supportforums.cisco.com//t5/ip-telephony/sip-ip-phones-7911g-cannot-load-ntp-settings/td-p/3096073,0
+Cisco Voice Gateway MTP Capacity Planni,08-15-2017,133,4,0,https://supportforums.cisco.com//t5/ip-telephony/cisco-voice-gateway-mtp-capacity-planning/td-p/3094384,0
+8865 Shutter,07-28-2017,225,4,0,https://supportforums.cisco.com//t5/ip-telephony/8865-shutter/td-p/3096467,0
+UCCX Call Redirect to Destination Numbe,08-17-2017,175,3,0,https://supportforums.cisco.com//t5/ip-telephony/uccx-call-redirect-to-destination-number-stored-in-document/td-p/3095868,0
+CUCM 7  Span to PC does not seem to w,10-09-2009,4407,3,0,https://supportforums.cisco.com//t5/ip-telephony/cucm-7-span-to-pc-does-not-seem-to-work/td-p/1309433,1
+CUCM User Update,08-15-2017,371,13,15,https://supportforums.cisco.com//t5/ip-telephony/cucm-user-update/td-p/3094883,1
+CME 86 with multiple DIDs,08-17-2017,79,1,0,https://supportforums.cisco.com//t5/ip-telephony/cme-8-6-with-multiple-did-s/td-p/3096544,1
+Registering Cisco IP Phone 7821 with As,08-17-2017,164,1,0,https://supportforums.cisco.com//t5/ip-telephony/registering-cisco-ip-phone-7821-with-asterisk/td-p/3096211,0
+Cisco 7970 blinking light screen not d,08-15-2017,86,2,0,https://supportforums.cisco.com//t5/ip-telephony/cisco-7970-blinking-light-screen-not-display/td-p/3094144,0
+Fine Tuning VoIP DialPeer on SIP CUBE,08-10-2017,711,7,0,https://supportforums.cisco.com//t5/ip-telephony/fine-tuning-voip-dial-peer-on-sip-cube/td-p/3091386,1
+Call Handler transfer issue,08-15-2017,106,5,0,https://supportforums.cisco.com//t5/ip-telephony/call-handler-transfer-issue/td-p/3094478,1
+CUCM cluster Tomcat CERT update,08-17-2017,83,3,0,https://supportforums.cisco.com//t5/ip-telephony/cucm-cluster-tomcat-cert-update/td-p/3096161,1
+sIP trunk inbound transfer to phone the,08-16-2017,144,2,0,https://supportforums.cisco.com//t5/ip-telephony/sip-trunk-inbound-transfer-to-phone-then-forward-to-voicemail/td-p/3095668,0
+CUCM upgrade question,08-17-2017,191,8,0,https://supportforums.cisco.com//t5/ip-telephony/cucm-upgrade-question/td-p/3096147,0
+Polycom IP 6000 and CUCM 115 ,08-17-2017,90,0,0,https://supportforums.cisco.com//t5/ip-telephony/polycom-ip-6000-and-cucm-11-5/td-p/3096208,0
+Licensing notifications,08-17-2017,268,3,0,https://supportforums.cisco.com//t5/ip-telephony/licensing-notifications/td-p/3096050,0
+Two headsets at once for Cisco IP Phone,08-16-2017,131,1,0,https://supportforums.cisco.com//t5/ip-telephony/two-headsets-at-once-for-cisco-ip-phone-7961/td-p/3095663,0
+Deleting CUCM 91 Expired CAPF Cert,08-16-2017,269,4,6,https://supportforums.cisco.com//t5/ip-telephony/deleting-cucm-9-1-expired-capf-cert/td-p/3095754,1
+Appearing MoH before call get transfers,08-17-2017,65,0,0,https://supportforums.cisco.com//t5/ip-telephony/appearing-moh-before-call-get-transfers-from-unity-call-handler/td-p/3096077,0
+Source Port Issue Cisco 2900 Router,08-14-2017,323,15,35,https://supportforums.cisco.com//t5/ip-telephony/source-port-issue-cisco-2900-router/td-p/3093675,0
+StationConnectionError ReasonCode8,08-29-2012,5394,5,0,https://supportforums.cisco.com//t5/ip-telephony/stationconnectionerror-reasoncode-8/td-p/2037482,1
+i,02-27-2017,1894,8,15,https://supportforums.cisco.com//t5/ip-telephony/i/td-p/3061934,0
+CMS Single server combined deployment ,08-16-2017,302,6,0,https://supportforums.cisco.com//t5/ip-telephony/cms-single-server-combined-deployment-firewall-ports/td-p/3095308,1
+CUCM Evaluation License,08-17-2017,327,2,10,https://supportforums.cisco.com//t5/ip-telephony/cucm-evaluation-license/td-p/3095890,1
+How to configure dialpeers and FXS por,07-12-2017,119,2,0,https://supportforums.cisco.com//t5/ip-telephony/how-to-configure-dial-peers-and-fxs-port-for-fax-machine/td-p/3083279,0
+IPT,08-16-2017,94,1,0,https://supportforums.cisco.com//t5/ip-telephony/ipt/td-p/3095573,0
+Enhanced iDivert,08-16-2017,110,3,5,https://supportforums.cisco.com//t5/ip-telephony/enhanced-idivert/td-p/3095782,0
+cucm sip cube sip pstn S,08-15-2017,575,8,5,https://supportforums.cisco.com//t5/ip-telephony/cucm-sip-cube-sip-pstn-sip-2-0-500-internal-server-error/td-p/3094871,1
+Pressing messages button on phone takes,07-17-2017,147,5,10,https://supportforums.cisco.com//t5/ip-telephony/pressing-messages-button-on-phone-takes-call-to-automated/td-p/3087052,0
+Adhoc Conference doesnt work with SIP,08-16-2017,298,1,0,https://supportforums.cisco.com//t5/ip-telephony/ad-hoc-conference-doesn-t-work-with-sip-phones-8831-cucme/td-p/3095288,0
+Manager,08-15-2017,45,2,0,https://supportforums.cisco.com//t5/ip-telephony/manager/td-p/3094442,0
+Keeping E164 numbers in the correct for,10-02-2012,3411,7,5,https://supportforums.cisco.com//t5/ip-telephony/keeping-e164-numbers-in-the-correct-format-in-excel-spreadsheets/td-p/2068043,0
+how to set CME outgoing calls to nation,08-16-2017,134,7,0,https://supportforums.cisco.com//t5/ip-telephony/how-to-set-cme-outgoing-calls-to-national/td-p/3095121,0
+Call Forwarding intermittently not goin,08-15-2017,72,2,0,https://supportforums.cisco.com//t5/ip-telephony/call-forwarding-intermittently-not-going-to-cell-phone-voicemail/td-p/3094810,0
+DMTF ISSUE Ony One Location,08-16-2017,95,3,2,https://supportforums.cisco.com//t5/ip-telephony/dmtf-issue-ony-one-location/td-p/3094948,0
+DPA Port Down,08-15-2017,50,1,0,https://supportforums.cisco.com//t5/ip-telephony/dpa-port-down/td-p/3094762,0
+CUCM regenerate certification issue,08-15-2017,47,1,0,https://supportforums.cisco.com//t5/ip-telephony/cucm-regenerate-certification-issue/td-p/3094924,0
+SRST E911 FXO DialPeer Selection,08-15-2017,55,0,0,https://supportforums.cisco.com//t5/ip-telephony/srst-e911-fxo-dial-peer-selection/td-p/3094793,0
+One Handset time wrong timezone,08-15-2017,36,4,2,https://supportforums.cisco.com//t5/ip-telephony/one-handset-time-wrong-timezone/td-p/3094236,0
+SIP IP Communicator,08-14-2017,123,2,5,https://supportforums.cisco.com//t5/ip-telephony/sip-ip-communicator/td-p/3093793,0
+Hunt Pilot Line Group and individual ,08-14-2017,55,2,0,https://supportforums.cisco.com//t5/ip-telephony/hunt-pilot-line-group-and-individual-extension/td-p/3093757,0
+Call Manager can connect the Jabber app,08-14-2017,49,5,0,https://supportforums.cisco.com//t5/ip-telephony/call-manager-can-connect-the-jabber-application-to-the-cisco/td-p/3093307,1
+Cisco Jabber Client show wrong display ,08-14-2017,148,3,0,https://supportforums.cisco.com//t5/ip-telephony/cisco-jabber-client-show-wrong-display-information-and-vice/td-p/3093561,1
+Cisco wireless phone 7925 upgrade probl,08-14-2017,107,3,0,https://supportforums.cisco.com//t5/ip-telephony/cisco-wireless-phone-7925-upgrade-problem/td-p/3093397,0
+Hunt Pilot Call Queuing UCCM 110,08-14-2017,126,6,0,https://supportforums.cisco.com//t5/ip-telephony/hunt-pilot-call-queuing-uccm-11-0/td-p/3093145,0
+Cucm,08-13-2017,70,5,0,https://supportforums.cisco.com//t5/ip-telephony/cucm/td-p/3092871,1
+8800 Phone Corporate Directory Enhancem,08-14-2017,53,0,0,https://supportforums.cisco.com//t5/ip-telephony/8800-phone-corporate-directory-enhancement/td-p/3094015,0
+Calls from Analog Phone FXS port to PST,08-10-2017,265,3,0,https://supportforums.cisco.com//t5/ip-telephony/calls-from-analog-phone-fxs-port-to-pstn-using-e1/td-p/3091365,0
+Outgoing SIP calling problem,08-07-2017,82,7,0,https://supportforums.cisco.com//t5/ip-telephony/outgoing-sip-calling-problem/td-p/3088647,0
+Tomcat service restarted without impact,05-10-2010,21943,11,35,https://supportforums.cisco.com//t5/ip-telephony/tomcat-service-restarted-without-impact/td-p/1440412,0
+Hunt groups with external numbers CM 1,08-14-2017,116,3,4,https://supportforums.cisco.com//t5/ip-telephony/hunt-groups-with-external-numbers-cm-10-5-2/td-p/3093568,1
+sip20 503 service unavailable reason ,08-06-2017,1541,3,5,https://supportforums.cisco.com//t5/ip-telephony/sip-2-0-503-service-unavailable-reason-q-850-cause-47-and-sip-2/td-p/3087735,1
+Does DND supersede the TIme Schedule in,08-14-2017,36,5,0,https://supportforums.cisco.com//t5/ip-telephony/does-dnd-supersede-the-time-schedule-in-cucm-10-x/td-p/3093523,1
+SIP Device Profile,08-10-2017,179,2,0,https://supportforums.cisco.com//t5/ip-telephony/sip-device-profile/td-p/3091489,1
+debug isdn q931 no route to destinatio,08-14-2017,217,8,0,https://supportforums.cisco.com//t5/ip-telephony/debug-isdn-q931-quot-no-route-to-destination-quot/td-p/3093180,0
+Insufficient Cisco Prime Licenses,06-04-2017,74,2,0,https://supportforums.cisco.com//t5/ip-telephony/insufficient-cisco-prime-licenses/td-p/3015750,0
+CUCM v115 The installation has encoun,08-14-2017,209,3,0,https://supportforums.cisco.com//t5/ip-telephony/cucm-v11-5-the-installation-has-encountered-a-unrecoverable/td-p/3093315,0
+10Secs Delay in calling extension to ex,08-13-2017,44,2,0,https://supportforums.cisco.com//t5/ip-telephony/10secs-delay-in-calling-extension-to-extension-among-wireless/td-p/3092860,1
+Configure VGW for AF31 and EF Traffic,07-25-2017,51,3,0,https://supportforums.cisco.com//t5/ip-telephony/configure-vgw-for-af31-and-ef-traffic/td-p/3093753,1
+Errormessage on my Cisco 7925 wireless ,08-14-2017,60,2,0,https://supportforums.cisco.com//t5/ip-telephony/errormessage-on-my-cisco-7925-wireless-phone-network-is-busy/td-p/3093130,1
+SNR,08-09-2017,38,4,0,https://supportforums.cisco.com//t5/ip-telephony/snr/td-p/3090267,0
+Duration of CM110K9LAB,08-13-2017,195,1,1,https://supportforums.cisco.com//t5/ip-telephony/duration-of-cm11-0-k9-lab/td-p/3092889,0
+CUCM Local admin users login stops work,08-13-2017,82,1,0,https://supportforums.cisco.com//t5/ip-telephony/cucm-local-admin-users-login-stops-working-intermittently/td-p/3092815,0
+Cisco IPMA proxy line configuration,08-13-2017,51,1,0,https://supportforums.cisco.com//t5/ip-telephony/cisco-ipma-proxy-line-configuration/td-p/3092822,0
+No Ringback from SIP Provider after Uni,09-18-2014,7117,98,100,https://supportforums.cisco.com//t5/ip-telephony/no-ringback-from-sip-provider-after-unity-transfer/td-p/2510422,0
+speech clipping 7841,07-14-2017,49,1,0,https://supportforums.cisco.com//t5/ip-telephony/speech-clipping-7841/td-p/3085428,0
+CUCM 115 CallForward to multiple cell ,08-12-2017,34,1,0,https://supportforums.cisco.com//t5/ip-telephony/cucm-11-5-callforward-to-multiple-cell-destinations/td-p/3092724,0
+SRST Test plan,03-29-2017,209,3,9,https://supportforums.cisco.com//t5/ip-telephony/srst-test-plan/td-p/3044382,0
+E1 directinwarddial,08-12-2017,73,2,0,https://supportforums.cisco.com//t5/ip-telephony/e1-direct-inward-dial/td-p/3092467,0
+Intercom feature on IP Phone fist line,08-11-2017,135,2,0,https://supportforums.cisco.com//t5/ip-telephony/intercom-feature-on-ip-phone-fist-line/td-p/3092280,0
+VG204 for modem use,08-10-2017,274,7,0,https://supportforums.cisco.com//t5/ip-telephony/vg204-for-modem-use/td-p/3091079,0
+CME MoH Live Feed Low or No Signal,08-11-2017,83,0,0,https://supportforums.cisco.com//t5/ip-telephony/cme-moh-live-feed-low-or-no-signal/td-p/3092422,0
+CUBE SIP Profile Help,08-10-2017,216,2,0,https://supportforums.cisco.com//t5/ip-telephony/cube-sip-profile-help/td-p/3091590,0
+SIP trunk to telco provider on CME  us,08-11-2017,48,0,0,https://supportforums.cisco.com//t5/ip-telephony/sip-trunk-to-telco-provider-on-cme-used-for-overhead-paging/td-p/3092201,0
+UCCX 70 Licensing Problem,08-11-2017,58,3,0,https://supportforums.cisco.com//t5/ip-telephony/uccx-7-0-licensing-problem/td-p/3091787,0
+CP88513PCCK9 to Enterprise firmware,08-11-2017,225,0,0,https://supportforums.cisco.com//t5/ip-telephony/cp-8851-3pcc-k9-to-enterprise-firmware/td-p/3092076,0
+Cisco IP phones not receiving the calle,08-08-2017,86,22,2,https://supportforums.cisco.com//t5/ip-telephony/cisco-ip-phones-not-receiving-the-caller-number/td-p/3089049,0
+Send All Calls to voicemail feature,04-20-2017,199,2,0,https://supportforums.cisco.com//t5/ip-telephony/send-all-calls-to-voicemail-feature/td-p/3062601,1
+CUCM 1052 Reboot Svrs  2 Subs  pho,08-10-2017,76,6,0,https://supportforums.cisco.com//t5/ip-telephony/cucm-10-5-2-reboot-svrs-2-subs-phone-behavior-questions/td-p/3091558,1
+ERROR Failed mWaveListInit hr0,05-08-2012,4731,13,0,https://supportforums.cisco.com//t5/ip-telephony/error-failed-m-wavelist-gt-init-hr-0x80040154-with-cisco-tsp/td-p/1881165,0
+Please share the flow to get time for S,08-11-2017,57,5,0,https://supportforums.cisco.com//t5/ip-telephony/please-share-the-flow-to-get-time-for-sip-and-sccp-phones/td-p/3091837,1
+CUCM version 862 6921 ip phone is re,07-04-2017,87,5,0,https://supportforums.cisco.com//t5/ip-telephony/cucm-version-8-6-2-6921-ip-phone-is-rejected-when-firmware-is/td-p/3049484,0
+CUCM bulk admin speeddial in UDP,08-11-2017,155,2,0,https://supportforums.cisco.com//t5/ip-telephony/cucm-bulk-admin-speeddial-in-udp/td-p/3091735,0
+Adding New Subscriber Failed,08-10-2017,101,11,0,https://supportforums.cisco.com//t5/ip-telephony/adding-new-subscriber-failed/td-p/3091033,1
+Cisco 8821 wireless phone configuration,08-10-2017,673,2,0,https://supportforums.cisco.com//t5/ip-telephony/cisco-8821-wireless-phone-configuration-and-set-up/td-p/3090896,0
+Cisco Prime Provisioning,08-04-2017,44,2,0,https://supportforums.cisco.com//t5/ip-telephony/cisco-prime-provisioning/td-p/3086506,0
+VPN phone  All concentrators failed,08-10-2017,384,1,0,https://supportforums.cisco.com//t5/ip-telephony/vpn-phone-all-concentrators-failed/td-p/3091649,0
+CDR Database Error  Error Code 10012 ,09-16-2013,3619,14,5,https://supportforums.cisco.com//t5/ip-telephony/cdr-database-error-error-code-10012-cucm-8-6-2/td-p/2320464,0
+Cisco CP8841 Phone with Asterisk,02-28-2017,1090,15,15,https://supportforums.cisco.com//t5/ip-telephony/cisco-cp-8841-phone-with-asterisk/td-p/3070660,0
+Password Recovery Cisco VG248,08-10-2017,90,1,0,https://supportforums.cisco.com//t5/ip-telephony/password-recovery-cisco-vg248/td-p/3091472,0
+Hot Dial Phone,08-10-2017,62,2,0,https://supportforums.cisco.com//t5/ip-telephony/hot-dial-phone/td-p/3091164,0
+Reception transfer directly to users v,08-10-2017,24,1,0,https://supportforums.cisco.com//t5/ip-telephony/reception-transfer-directly-to-user-s-voice-mail/td-p/3091220,0
+FXO finding if line is plugged in,05-05-2009,2902,6,42,https://supportforums.cisco.com//t5/ip-telephony/fxo-finding-if-line-is-plugged-in/td-p/1244689,1
+Double ring tone heard over SIP trunk,08-10-2017,71,2,0,https://supportforums.cisco.com//t5/ip-telephony/double-ring-tone-heard-over-sip-trunk/td-p/3090902,0
+Registering Cisco 7945G IP Phone on CUC,08-10-2017,31,2,0,https://supportforums.cisco.com//t5/ip-telephony/registering-cisco-7945g-ip-phone-on-cucm-6-x-callmanagaer/td-p/3090832,0
+How to check SIP gateway configuration ,08-10-2017,65,1,0,https://supportforums.cisco.com//t5/ip-telephony/how-to-check-sip-gateway-configuration-for-fax/td-p/3090948,0
+2811 H323 FXS Callmanager FAX configura,03-12-2010,1225,11,0,https://supportforums.cisco.com//t5/ip-telephony/2811-h323-fxs-callmanager-fax-configuration/td-p/1398240,0
+MX800 encrypted calls,05-02-2016,393,13,5,https://supportforums.cisco.com//t5/ip-telephony/mx800-encrypted-calls/td-p/2857582,1
+Cannot transfer call in via SIP trunk,08-08-2017,284,5,0,https://supportforums.cisco.com//t5/ip-telephony/cannot-transfer-call-in-via-sip-trunk/td-p/3089292,0
+MRGL is not working on Phone level but ,08-09-2017,57,5,0,https://supportforums.cisco.com//t5/ip-telephony/mrgl-is-not-working-on-phone-level-but-working-on-device-pool/td-p/3090356,0
+Call Routing to IVR throught PSTN Trunk,08-06-2017,51,1,0,https://supportforums.cisco.com//t5/ip-telephony/call-routing-to-ivr-throught-pstn-trunk/td-p/3087690,0
+CUCM LDAP sync  How to keep local user,08-09-2017,269,3,5,https://supportforums.cisco.com//t5/ip-telephony/cucm-ldap-sync-how-to-keep-local-user-accounts-from-becoming/td-p/3090578,0
+Firmware Upgradechange 7841 issue,08-05-2017,633,7,5,https://supportforums.cisco.com//t5/ip-telephony/firmware-upgrade-change-7841-issue/td-p/3087515,0
+After upgrading CUC to 110 the web in,06-06-2016,424,15,9,https://supportforums.cisco.com//t5/ip-telephony/after-upgrading-cuc-to-11-0-the-web-inbox-link-on-our-website-no/td-p/2880611,0
+Call forwarding caller ID presentation,06-01-2017,51,1,0,https://supportforums.cisco.com//t5/ip-telephony/call-forwarding-caller-id-presentation/td-p/3006457,0
+RTP Ports Reserved,08-09-2017,69,3,5,https://supportforums.cisco.com//t5/ip-telephony/rtp-ports-reserved/td-p/3090474,0
+Is Digest User necessary in Protocol Sp,08-08-2017,307,6,0,https://supportforums.cisco.com//t5/ip-telephony/is-digest-user-necessary-in-protocol-specific-window-for-jabber/td-p/3089589,0
+Jabber 1182 for IPad integration with,08-09-2017,29,0,0,https://supportforums.cisco.com//t5/ip-telephony/jabber-11-8-2-for-ipad-integration-with-cucm-10-5/td-p/3090293,0
+Missed call after call pickup,08-09-2017,33,0,0,https://supportforums.cisco.com//t5/ip-telephony/missed-call-after-call-pickup/td-p/3090259,0
+Korea  router as H323 Gtwy  Possible ,08-09-2017,76,2,0,https://supportforums.cisco.com//t5/ip-telephony/korea-router-as-h323-gtwy-possible-to-have-e1-r2-and-e1-isdn-pri/td-p/3090121,1
+Unable to pick and choose what hunt gro,08-08-2017,21,2,0,https://supportforums.cisco.com//t5/ip-telephony/unable-to-pick-and-choose-what-hunt-group-calls-to-answer-in/td-p/3089457,0
+SIP trunk usage,08-08-2017,330,4,0,https://supportforums.cisco.com//t5/ip-telephony/sip-trunk-usage/td-p/3089362,1
+CME call not transferring from 8841 sip,08-08-2017,33,2,0,https://supportforums.cisco.com//t5/ip-telephony/cme-call-not-transferring-from-8841-sip-to-a-7942-sccp/td-p/3089799,0
+CUCM Export Job shows status of Incompl,06-27-2011,748,2,0,https://supportforums.cisco.com//t5/ip-telephony/cucm-export-job-shows-status-of-incomplete/td-p/1723607,0
+Replication between Publisher and Subsc,08-08-2017,31,3,0,https://supportforums.cisco.com//t5/ip-telephony/replication-between-publisher-and-subscriber-failed/td-p/3089939,0
+Need to configured SIP gateway for FAX ,08-09-2017,33,0,0,https://supportforums.cisco.com//t5/ip-telephony/need-to-configured-sip-gateway-for-fax-on-cisco-2811/td-p/3090039,0
+External speaker and mic for cisco 7942,08-09-2017,341,0,0,https://supportforums.cisco.com//t5/ip-telephony/external-speaker-and-mic-for-cisco-7942-phone/td-p/3089977,0
+CUCM LDAP sync status or notifications,08-08-2017,306,1,0,https://supportforums.cisco.com//t5/ip-telephony/cucm-ldap-sync-status-or-notifications/td-p/3089934,0
+External Mask SpoofingRandomizing,08-08-2017,26,3,0,https://supportforums.cisco.com//t5/ip-telephony/external-mask-spoofing-randomizing/td-p/3089826,0
+Cant convert from sip78xx110111 t,08-08-2017,54,1,0,https://supportforums.cisco.com//t5/ip-telephony/can-t-convert-from-sip78xx-11-0-1-11-to-sip78xx-11-0-1mpp-477/td-p/3089211,0
+Cannot Access Device information Screen,08-08-2017,37,2,0,https://supportforums.cisco.com//t5/ip-telephony/cannot-access-device-information-screen/td-p/3089504,1
+QoS Command Conversion IOS to Denali o,07-14-2017,56,1,0,https://supportforums.cisco.com//t5/ip-telephony/qos-command-conversion-ios-to-denali-on-3650-core-switch/td-p/3085778,0
+Unity connection system distribution li,08-08-2017,19,0,0,https://supportforums.cisco.com//t5/ip-telephony/unity-connection-system-distribution-list/td-p/3089544,0
+Licensing with EM and Softphone,08-04-2017,148,5,0,https://supportforums.cisco.com//t5/ip-telephony/licensing-with-em-and-softphone/td-p/3086650,0
+Multiple LDAP Synchronisation with AD,08-08-2017,28,1,5,https://supportforums.cisco.com//t5/ip-telephony/multiple-ldap-synchronisation-with-ad/td-p/3089385,0
+Using Single CUBE for two different cli,08-08-2017,50,8,10,https://supportforums.cisco.com//t5/ip-telephony/using-single-cube-for-two-different-clients/td-p/3089169,0
+Navigation Button Light on Phones,04-10-2015,40,3,5,https://supportforums.cisco.com//t5/ip-telephony/navigation-button-light-on-phones/td-p/2625511,0
+Allow agents to access ONLY their own r,08-08-2017,27,0,0,https://supportforums.cisco.com//t5/ip-telephony/allow-agents-to-access-only-their-own-recordings/td-p/3089198,0
+78XX Phone PoE problem with 6500 Switch,08-02-2017,99,4,0,https://supportforums.cisco.com//t5/ip-telephony/78xx-phone-poe-problem-with-6500-switch/td-p/3098126,0
+Cisco IOS Homogeneous Video Conference ,12-04-2015,1610,11,0,https://supportforums.cisco.com//t5/ip-telephony/cisco-ios-homogeneous-video-conference-bridge/td-p/2807044,1
+Prime collaboration assurance,08-07-2017,64,1,0,https://supportforums.cisco.com//t5/ip-telephony/prime-collaboration-assurance/td-p/3088963,1
+CP88418861 SIP Configuration Assistan,02-07-2016,1248,4,0,https://supportforums.cisco.com//t5/ip-telephony/cp-8841-8861-sip-configuration-assistance/td-p/2801863,0
+Call to PSTN required PIN SIP Phones,08-07-2017,55,6,0,https://supportforums.cisco.com//t5/ip-telephony/call-to-pstn-required-pin-sip-phones/td-p/3088610,0
+No 2way Audio,08-07-2017,50,3,0,https://supportforums.cisco.com//t5/ip-telephony/no-2-way-audio/td-p/3088725,0
+Cisco 2951 with VWIC2 and PVDM2,08-07-2017,56,1,0,https://supportforums.cisco.com//t5/ip-telephony/cisco-2951-with-vwic2-and-pvdm2/td-p/3088678,0
+Cisco CP7841firmware upgradation,08-07-2017,47,1,0,https://supportforums.cisco.com//t5/ip-telephony/cisco-cp-7841firmware-upgradation/td-p/3088642,0
+listen into the conversation while othe,08-07-2017,51,2,0,https://supportforums.cisco.com//t5/ip-telephony/listen-into-the-conversation-while-other-persone-talking-on-same/td-p/3088527,0
+CUCM RTMT  Can the time period of the ,09-13-2013,196,3,5,https://supportforums.cisco.com//t5/ip-telephony/cucm-rtmt-can-the-time-period-of-the-displayed-graphs-be/td-p/2311439,1
+UC500 CME forwarding all DIDS to the ma,07-27-2017,26,6,0,https://supportforums.cisco.com//t5/ip-telephony/uc500-cme-forwarding-all-dids-to-the-main-line-did/td-p/3095775,0
+Cisco Unity Connection PCA 10X end us,08-07-2017,61,2,0,https://supportforums.cisco.com//t5/ip-telephony/cisco-unity-connection-pca-10-x-end-user-greeting-recording-java/td-p/3088171,0
+How should i do to make IP phone 7821 w,08-07-2017,92,7,0,https://supportforums.cisco.com//t5/ip-telephony/how-should-i-do-to-make-ip-phone-7821-work-on-cme-9-1/td-p/3088273,1
+ISR sends reinvite to switch from T38,08-04-2017,285,4,0,https://supportforums.cisco.com//t5/ip-telephony/isr-sends-re-invite-to-switch-from-t-38-to-audio-after/td-p/3087058,0
+Seach criteria SIP call flow in PCA,08-07-2017,55,0,0,https://supportforums.cisco.com//t5/ip-telephony/seach-criteria-sip-call-flow-in-pca/td-p/3088216,0
+CUCM 115 and encryption,08-07-2017,50,1,0,https://supportforums.cisco.com//t5/ip-telephony/cucm-11-5-and-encryption/td-p/3088190,0
+bug report cucm upgrade,08-07-2017,65,3,0,https://supportforums.cisco.com//t5/ip-telephony/bug-report-cucm-upgrade/td-p/3088147,0
+Cisco CP6921 registration reject when ,08-03-2017,35,2,0,https://supportforums.cisco.com//t5/ip-telephony/cisco-cp-6921-registration-reject-when-change-device-pool-on/td-p/3085831,0
+Cisco Unity connection Scheduling and c,08-05-2017,88,5,5,https://supportforums.cisco.com//t5/ip-telephony/cisco-unity-connection-scheduling-and-call-handler-help-required/td-p/3087481,1
+install license on cisco router 2900 se,06-05-2015,2212,18,14,https://supportforums.cisco.com//t5/ip-telephony/install-license-on-cisco-router-2900-series/td-p/2701471,0
+Error with cdr ftp copying,08-04-2017,108,2,0,https://supportforums.cisco.com//t5/ip-telephony/error-with-cdr-ftp-copying/td-p/3086488,0
+SCUEISM86K9,08-06-2017,81,1,0,https://supportforums.cisco.com//t5/ip-telephony/scue-ism-8-6-k9/td-p/3087832,0
+DRS time and performance impact in CUCM,11-23-2010,288,3,0,https://supportforums.cisco.com//t5/ip-telephony/drs-time-and-performance-impact-in-cucm/td-p/1572383,1
+CUCM snapshot not supported  Disaster ,05-08-2017,168,10,0,https://supportforums.cisco.com//t5/ip-telephony/cucm-snapshot-not-supported-disaster-recovery-process-instead/td-p/3055409,1
+ISR 4331 Voice Quality Issue  Hissing,10-08-2015,1116,9,5,https://supportforums.cisco.com//t5/ip-telephony/isr-4331-voice-quality-issue-hissing/td-p/2739737,0
+outgoing calls to pstn not working,04-27-2007,903,5,0,https://supportforums.cisco.com//t5/ip-telephony/outgoing-calls-to-pstn-not-working/td-p/817763,1
+Route pattern question,08-05-2017,60,2,0,https://supportforums.cisco.com//t5/ip-telephony/route-pattern-question/td-p/3087373,0
+Calling IVR from my cucm no digit accep,06-18-2017,118,5,0,https://supportforums.cisco.com//t5/ip-telephony/calling-ivr-from-my-cucm-no-digit-accepting/td-p/3074806,0
+SIP to ANALOG,08-04-2017,183,2,0,https://supportforums.cisco.com//t5/ip-telephony/sip-to-analog/td-p/3087177,0
+Line Pickup Configuration for Novice,07-28-2017,32,1,0,https://supportforums.cisco.com//t5/ip-telephony/line-pickup-configuration-for-novice/td-p/3096585,0
+How to find Concurrent IPIVR Ports in U,08-04-2017,37,8,10,https://supportforums.cisco.com//t5/ip-telephony/how-to-find-concurrent-ipivr-ports-in-ucce/td-p/3086813,1
+sip20 400 bad request,08-04-2017,713,6,0,https://supportforums.cisco.com//t5/ip-telephony/sip-2-0-400-bad-request/td-p/3086744,1
+phone registered to two diffirent call ,08-04-2017,29,1,0,https://supportforums.cisco.com//t5/ip-telephony/phone-registered-to-two-diffirent-call-manager/td-p/3086923,0
+Translation Pattern Configuration Advic,08-04-2017,59,5,0,https://supportforums.cisco.com//t5/ip-telephony/translation-pattern-configuration-advice/td-p/3086633,0
+Hunt Group Will Not Foward to Another N,08-01-2017,73,7,0,https://supportforums.cisco.com//t5/ip-telephony/hunt-group-will-not-foward-to-another-number/td-p/3097808,1
+UCK9 license in voice router,08-04-2017,429,1,0,https://supportforums.cisco.com//t5/ip-telephony/uck9-license-in-voice-router/td-p/3086620,0
+I am not able to configure cisco 8841 i,08-04-2017,461,3,0,https://supportforums.cisco.com//t5/ip-telephony/i-am-not-able-to-configure-cisco-8841-ip-phone-version-sip/td-p/3086537,0
+CUCM 105  User Options Page,06-17-2014,755,6,15,https://supportforums.cisco.com//t5/ip-telephony/cucm-10-5-user-options-page/td-p/2508886,0
+How PRI Utilization works,08-03-2017,134,5,0,https://supportforums.cisco.com//t5/ip-telephony/how-pri-utilization-works/td-p/3085340,0
+Attendant Console call forwarding,08-03-2017,135,1,0,https://supportforums.cisco.com//t5/ip-telephony/attendant-console-call-forwarding/td-p/3086188,0
+intermittent ringback issue on call ove,08-03-2017,20,2,0,https://supportforums.cisco.com//t5/ip-telephony/intermittent-ringback-issue-on-call-over-sip-trunk/td-p/3086136,0
+Upgrade IOS XE image ISR 4321 CUCME,08-03-2017,276,3,0,https://supportforums.cisco.com//t5/ip-telephony/upgrade-ios-xe-image-isr-4321-cucme/td-p/3085988,0
+Can Cisco 8841 be used in a hosted VOIP,08-03-2017,121,3,0,https://supportforums.cisco.com//t5/ip-telephony/can-cisco-8841-be-used-in-a-hosted-voip-environment/td-p/3085933,0
+Can I install a UCSE Module on my Voic,08-03-2017,32,3,5,https://supportforums.cisco.com//t5/ip-telephony/can-i-install-a-ucs-e-module-on-my-voice-router/td-p/3086230,0
+ TOUCH 12 NO DIRECTORY,08-03-2017,24,0,0,https://supportforums.cisco.com//t5/ip-telephony/touch-12-no-directory/td-p/3086306,0
+ CTS 1000 URI DIALING,07-04-2017,47,5,0,https://supportforums.cisco.com//t5/ip-telephony/cts-1000-uri-dialing/td-p/3052490,0
+7942 SSH challange,08-03-2017,47,1,0,https://supportforums.cisco.com//t5/ip-telephony/7942-ssh-challange/td-p/3085913,0
+CDRs Formatting,07-20-2017,30,4,0,https://supportforums.cisco.com//t5/ip-telephony/cdrs-formatting/td-p/3090661,1
+understanding translation rules in cme,08-02-2017,381,6,18,https://supportforums.cisco.com//t5/ip-telephony/understanding-translation-rules-in-cme/td-p/3098176,1
+Trying to hide extension when calling o,08-03-2017,27,1,0,https://supportforums.cisco.com//t5/ip-telephony/trying-to-hide-extension-when-calling-out/td-p/3085894,0
+How can I change email server in Cisco ,08-03-2017,16,0,0,https://supportforums.cisco.com//t5/ip-telephony/how-can-i-change-email-server-in-cisco-unity/td-p/3085843,0
+Personal Directory Error,08-02-2017,31,2,0,https://supportforums.cisco.com//t5/ip-telephony/personal-directory-error/td-p/3085033,0
+Cannot see the directory on my 8861 wit,08-03-2017,68,4,0,https://supportforums.cisco.com//t5/ip-telephony/cannot-see-the-directory-on-my-8861-with-cme/td-p/3085604,0
+CUCM 105 Phones not registering,07-31-2017,242,3,0,https://supportforums.cisco.com//t5/ip-telephony/cucm-10-5-phones-not-registering/td-p/3097508,1
+8941 registered problem,08-03-2017,222,8,0,https://supportforums.cisco.com//t5/ip-telephony/8941-registered-problem/td-p/3085417,0
+Cisco Directory and ITL,08-02-2017,51,3,0,https://supportforums.cisco.com//t5/ip-telephony/cisco-directory-and-itl/td-p/3084957,0
+Jabber for iPhone Question,08-02-2017,38,2,0,https://supportforums.cisco.com//t5/ip-telephony/jabber-for-iphone-question/td-p/3084600,0
+CUCM package upgrade support part numbe,07-18-2017,267,5,0,https://supportforums.cisco.com//t5/ip-telephony/cucm-package-upgrade-support-part-number/td-p/3088057,0
+cme cant call a certain number,08-02-2017,28,1,5,https://supportforums.cisco.com//t5/ip-telephony/cme-cant-call-a-certain-number/td-p/3085224,0
+Cisco 4331 Gateway with DSP installed i,07-31-2017,399,6,0,https://supportforums.cisco.com//t5/ip-telephony/cisco-4331-gateway-with-dsp-installed-in-wrong-location-i-think/td-p/3097486,1
+Change Search criteria in Self Portal,08-03-2017,22,3,0,https://supportforums.cisco.com//t5/ip-telephony/change-search-criteria-in-self-portal/td-p/3085253,1
+FAX is not working using G729 Codec,08-01-2017,389,2,0,https://supportforums.cisco.com//t5/ip-telephony/fax-is-not-working-using-g729-codec/td-p/3098065,1
+Cisco Wireless Headset Help,08-02-2017,75,1,0,https://supportforums.cisco.com//t5/ip-telephony/cisco-wireless-headset-help/td-p/3085076,0
+Networkclock synchronization PSTN,04-19-2016,6577,20,1,https://supportforums.cisco.com//t5/ip-telephony/network-clock-synchronization-pstn/td-p/2872924,1
+Convert Voice Gateway from 2811 to 4321,08-02-2017,120,1,0,https://supportforums.cisco.com//t5/ip-telephony/convert-voice-gateway-from-2811-to-4321/td-p/3084962,1
+Cisco 7937 Conf Unit wont get an IP,08-01-2017,189,9,0,https://supportforums.cisco.com//t5/ip-telephony/cisco-7937-conf-unit-won-t-get-an-ip/td-p/3097775,1
+ISR 4331 CUBE Redundancy,08-02-2017,441,2,0,https://supportforums.cisco.com//t5/ip-telephony/isr-4331-cube-redundancy/td-p/3084506,0
+Busy Trigger set to 1 not working for e,08-01-2017,98,3,0,https://supportforums.cisco.com//t5/ip-telephony/busy-trigger-set-to-1-not-working-for-external-calls/td-p/3097648,0
+IP Communicator behaviour,08-01-2017,46,1,0,https://supportforums.cisco.com//t5/ip-telephony/ip-communicator-behaviour/td-p/3097752,0
+CDR increase as much as possible,08-02-2017,48,2,0,https://supportforums.cisco.com//t5/ip-telephony/cdr-increase-as-much-as-possible/td-p/3098168,1
+Export PAK or SN from PLM,08-02-2017,96,4,5,https://supportforums.cisco.com//t5/ip-telephony/export-pak-or-sn-from-plm/td-p/3098082,0
+VoiceGateway CDR accounting emtpy lines,08-02-2017,24,0,0,https://supportforums.cisco.com//t5/ip-telephony/voicegateway-cdr-accounting-emtpy-lines-after-unix-time/td-p/3084716,0
+Increasing E1 line,08-02-2017,25,2,0,https://supportforums.cisco.com//t5/ip-telephony/increasing-e1-line/td-p/3098142,0
+G729 Vs G711 On same link,08-02-2017,82,0,0,https://supportforums.cisco.com//t5/ip-telephony/g729-vs-g711-on-same-link/td-p/3098173,0
+CUCM 115 where is directory option und,08-02-2017,60,7,0,https://supportforums.cisco.com//t5/ip-telephony/cucm-11-5-where-is-directory-option-under-self-care-portal/td-p/3098087,1
+Ring no answer duration not working,08-13-2016,86,5,0,https://supportforums.cisco.com//t5/ip-telephony/ring-no-answer-duration-not-working/td-p/2978777,0
+Call Manager DID inventory management,08-01-2017,71,4,5,https://supportforums.cisco.com//t5/ip-telephony/call-manager-did-inventory-management/td-p/3097736,1
+Pings dropping packets to the ip phone,07-31-2017,111,2,0,https://supportforums.cisco.com//t5/ip-telephony/pings-dropping-packets-to-the-ip-phone/td-p/3097537,0
+Cisco Spark with CUCM,11-22-2016,6196,5,0,https://supportforums.cisco.com//t5/ip-telephony/cisco-spark-with-cucm/td-p/2944524,0
+Answer Second Line when picking up hand,08-01-2017,99,1,5,https://supportforums.cisco.com//t5/ip-telephony/answer-second-line-when-picking-up-handset-for-extension/td-p/3097756,0
+Block the specific number about externa,07-25-2017,96,5,0,https://supportforums.cisco.com//t5/ip-telephony/block-the-specific-number-about-external-incoming-call-for/td-p/3093896,1
+Cannot make consultative transfer,07-28-2017,36,11,0,https://supportforums.cisco.com//t5/ip-telephony/cannot-make-consultative-transfer/td-p/3096623,0
+Cisco 8865 main call list placed reci,08-01-2017,28,0,0,https://supportforums.cisco.com//t5/ip-telephony/cisco-8865-main-call-list-placed-recived-missed-on-message/td-p/3097620,0
+Cisco Jabber Monitoring,07-31-2017,244,1,0,https://supportforums.cisco.com//t5/ip-telephony/cisco-jabber-monitoring/td-p/3097572,0
+Cisco CUCM 86 to 912 SU6 Upgrade Dow,07-24-2017,100,17,20,https://supportforums.cisco.com//t5/ip-telephony/cisco-cucm-8-6-to-9-1-2-su6-upgrade-downtime/td-p/3093112,1
+Block CallerID for specific Das on SIP ,07-28-2017,22,1,0,https://supportforums.cisco.com//t5/ip-telephony/block-callerid-for-specific-das-on-sip-trunk/td-p/3096805,0
+No Ringback on SIP trunk on outbound ca,10-17-2014,119,2,0,https://supportforums.cisco.com//t5/ip-telephony/no-ringback-on-sip-trunk-on-outbound-calls/td-p/2593890,0
+Dead Air on hair pinned Calls CME,07-28-2017,42,1,0,https://supportforums.cisco.com//t5/ip-telephony/dead-air-on-hair-pinned-calls-cme/td-p/3096688,0
+Unable to Forward Calls to an external ,07-28-2017,53,4,0,https://supportforums.cisco.com//t5/ip-telephony/unable-to-forward-calls-to-an-external-number/td-p/3096800,1
+Jabber 105 on VDI with VXME,01-29-2015,1529,3,0,https://supportforums.cisco.com//t5/ip-telephony/jabber-10-5-on-vdi-with-vxme/td-p/2627450,0
+2N Helios IP Uni  Door Lock,07-28-2017,447,7,10,https://supportforums.cisco.com//t5/ip-telephony/2n-helios-ip-uni-door-lock/td-p/3096556,1
+Call routing over CUCM to CUCM Sip trun,07-30-2017,39,1,0,https://supportforums.cisco.com//t5/ip-telephony/call-routing-over-cucm-to-cucm-sip-trunk-using-local-cucm-as/td-p/3097133,0
+EMCC Certificate Consolidate Issue,05-19-2016,353,10,0,https://supportforums.cisco.com//t5/ip-telephony/emcc-certificate-consolidate-issue/td-p/2873010,0
+VXME with Jabra Direct and Jabra Blueto,07-31-2017,67,0,0,https://supportforums.cisco.com//t5/ip-telephony/vxme-with-jabra-direct-and-jabra-bluetooth-devices/td-p/3097207,0
+Log the case for cisco IP phone mode 88,07-30-2017,17,1,0,https://supportforums.cisco.com//t5/ip-telephony/log-the-case-for-cisco-ip-phone-mode-8865-kg/td-p/3097131,0
+Incoming calls not arriving at CUCM  f,07-29-2017,52,2,0,https://supportforums.cisco.com//t5/ip-telephony/incoming-calls-not-arriving-at-cucm-fault-with-sip-provider-or/td-p/3096888,0
+UCCX Prompt Recorder Verification Code ,07-26-2017,36,4,0,https://supportforums.cisco.com//t5/ip-telephony/uccx-prompt-recorder-verification-code-issue/td-p/3094491,0
+2901 ISR iOS FXO CUE FAX Detection ,07-28-2017,54,0,0,https://supportforums.cisco.com//t5/ip-telephony/2901-isr-ios-fxo-cue-fax-detection-and-redirection/td-p/3096851,0
+9971 ON ELASTIX,03-11-2015,336,7,0,https://supportforums.cisco.com//t5/ip-telephony/9971-on-elastix/td-p/2618925,1
+Analog phone connected to ATA187 cant ,07-28-2017,40,0,0,https://supportforums.cisco.com//t5/ip-telephony/analog-phone-connected-to-ata187-can-t-make-calls-on-srst-mode/td-p/3096822,0
+Does Unity 11x work with CUCM 105,07-28-2017,56,2,5,https://supportforums.cisco.com//t5/ip-telephony/does-unity-11-x-work-with-cucm-10-5/td-p/3096789,0
+Hold and Forward Button Missing,12-05-2016,826,6,5,https://supportforums.cisco.com//t5/ip-telephony/hold-and-forward-button-missing/td-p/2997050,1
+Doubt about CDR Analysis and Reporting ,07-28-2017,95,5,0,https://supportforums.cisco.com//t5/ip-telephony/doubt-about-cdr-analysis-and-reporting-and-cdr-management/td-p/3096635,1
+Phone Logs,07-28-2017,76,1,0,https://supportforums.cisco.com//t5/ip-telephony/phone-logs/td-p/3096605,0
+Park Monitoring Forward No Retrieve Des,07-28-2017,151,2,0,https://supportforums.cisco.com//t5/ip-telephony/park-monitoring-forward-no-retrieve-destination-external/td-p/3096448,0
+Active Directory Integration with CUCM ,02-24-2015,4457,9,5,https://supportforums.cisco.com//t5/ip-telephony/active-directory-integration-with-cucm-10-5/td-p/2629914,1
+When using Media Termination Point Requ,07-27-2016,169,4,0,https://supportforums.cisco.com//t5/ip-telephony/when-using-media-termination-point-required-calls-start/td-p/2980980,0
+VPN phone with incorrect time display i,04-08-2013,865,9,0,https://supportforums.cisco.com//t5/ip-telephony/vpn-phone-with-incorrect-time-display-in-cm-9-1/td-p/2153491,0
+cucm 115 Dial tone abnormal,07-27-2017,33,1,0,https://supportforums.cisco.com//t5/ip-telephony/cucm-11-5-dial-tone-abnormal/td-p/3096347,0
+Display Company name on Cisco IP Phone,07-27-2017,54,3,0,https://supportforums.cisco.com//t5/ip-telephony/display-company-name-on-cisco-ip-phone/td-p/3096438,0
+Need help to create uccx script,07-27-2017,25,2,5,https://supportforums.cisco.com//t5/ip-telephony/need-help-to-create-uccx-script/td-p/3096158,0
+Cannot transfer from SIP to SIP Phones ,07-24-2017,235,8,0,https://supportforums.cisco.com//t5/ip-telephony/cannot-transfer-from-sip-to-sip-phones-on-cme/td-p/3092442,1
+No dial tone,07-27-2017,85,6,0,https://supportforums.cisco.com//t5/ip-telephony/no-dial-tone/td-p/3095643,0
+IP Telephony  Calls not going to voice,07-25-2017,118,6,0,https://supportforums.cisco.com//t5/ip-telephony/ip-telephony-calls-not-going-to-voicemail-when-phone-lines-are/td-p/3094218,0
+foreign configuration,07-27-2017,82,1,0,https://supportforums.cisco.com//t5/ip-telephony/foreign-configuration/td-p/3096054,0
+CUCM and LDAP Integration for existing ,07-28-2017,33,2,0,https://supportforums.cisco.com//t5/ip-telephony/cucm-and-ldap-integration-for-existing-cluster/td-p/3096481,1
+Issue with Wireless Plantronics headset,07-27-2017,500,3,0,https://supportforums.cisco.com//t5/ip-telephony/issue-with-wireless-plantronics-headset-with-cisco-7962-ip-phone/td-p/3095957,0
+CUCM and LDAP Integration,07-27-2017,171,5,1,https://supportforums.cisco.com//t5/ip-telephony/cucm-and-ldap-integration/td-p/3095697,1
+NO Matching Outgoing Dial Peer,07-24-2017,368,8,5,https://supportforums.cisco.com//t5/ip-telephony/no-matching-outgoing-dial-peer/td-p/3093055,0
+CP3905 without provisioning,07-27-2017,64,1,5,https://supportforums.cisco.com//t5/ip-telephony/cp-3905-without-provisioning/td-p/3095893,0
+remote access to cisco voicemail from a,07-20-2012,2265,3,0,https://supportforums.cisco.com//t5/ip-telephony/remote-access-to-cisco-voicemail-from-a-remote-device/td-p/1993004,1
+What versions of CCMCUCM and Unity can,07-27-2017,76,4,0,https://supportforums.cisco.com//t5/ip-telephony/what-versions-of-ccm-cucm-and-unity-can-i-use-with-cisco-7940/td-p/3096203,0
+voice is not coming in incoming calls,07-27-2017,26,1,0,https://supportforums.cisco.com//t5/ip-telephony/voice-is-not-coming-in-incoming-calls/td-p/3095675,0
+Edit efxs ports not in use How can I,07-26-2017,57,3,0,https://supportforums.cisco.com//t5/ip-telephony/edit-efxs-ports-not-in-use-how-can-i-remove-them/td-p/3095113,1
+Jabber Search by Office,07-27-2017,16,1,0,https://supportforums.cisco.com//t5/ip-telephony/jabber-search-by-office/td-p/3095726,0
+SPA525G2 compatability,07-27-2017,63,1,0,https://supportforums.cisco.com//t5/ip-telephony/spa525g2-compatability/td-p/3095736,1
+Incoming voice packet loss and s much j,07-25-2017,188,7,5,https://supportforums.cisco.com//t5/ip-telephony/incoming-voice-packet-loss-and-s-much-jitter-in-these-calls/td-p/3093319,0
+Phone sending multiple SIP registrar re,07-05-2017,17,2,0,https://supportforums.cisco.com//t5/ip-telephony/phone-sending-multiple-sip-registrar-request-to-isp-unwantedly/td-p/3052887,1
+TRAI DoT Regulations on Call Routing,07-26-2017,102,1,0,https://supportforums.cisco.com//t5/ip-telephony/trai-dot-regulations-on-call-routing/td-p/3095395,0
+EFAX services,07-26-2017,60,2,0,https://supportforums.cisco.com//t5/ip-telephony/e-fax-services/td-p/3094616,0
+8851 and KEM programming,07-26-2017,30,0,0,https://supportforums.cisco.com//t5/ip-telephony/8851-and-kem-programming/td-p/3095036,0
+Cisco 2911 FXS Port advice show voice,07-26-2017,124,3,0,https://supportforums.cisco.com//t5/ip-telephony/cisco-2911-fxs-port-advice-quot-show-voice-port-sum-quot/td-p/3094959,1
+Outbound calling ID CME,07-11-2017,47,2,0,https://supportforums.cisco.com//t5/ip-telephony/outbound-calling-id-cme/td-p/3077966,0
+CME SIP Phone shows time as December 31,07-07-2017,86,5,0,https://supportforums.cisco.com//t5/ip-telephony/cme-sip-phone-shows-time-as-december-31-1981/td-p/3067473,0
+CUCM 115 hardware support,07-26-2017,367,4,0,https://supportforums.cisco.com//t5/ip-telephony/cucm-11-5-hardware-support/td-p/3094522,0
+Cisco 8851 add on module,07-26-2017,258,9,5,https://supportforums.cisco.com//t5/ip-telephony/cisco-8851-add-on-module/td-p/3094628,0
+Cisco Unity  shared voicemail for term,07-26-2017,72,1,0,https://supportforums.cisco.com//t5/ip-telephony/cisco-unity-shared-voicemail-for-terminated-employees/td-p/3094907,0
+CUCM 115 MoH Rebroadcast External Mu,05-01-2017,362,3,5,https://supportforums.cisco.com//t5/ip-telephony/cucm-11-5-moh-rebroadcast-external-multicast-source/td-p/3020493,0
+caller id during transfer,07-06-2017,104,11,0,https://supportforums.cisco.com//t5/ip-telephony/caller-id-during-transfer/td-p/3059568,0
+Can a Single PLM handle multiple CUCM P,07-26-2017,173,5,5,https://supportforums.cisco.com//t5/ip-telephony/can-a-single-plm-handle-multiple-cucm-publishers-and-or-unity/td-p/3094766,1
+SCCP Admin State DOWN,07-26-2017,101,4,0,https://supportforums.cisco.com//t5/ip-telephony/sccp-admin-state-down/td-p/3094285,0
+Prime Collaboration Assurance Registrat,07-26-2017,28,0,0,https://supportforums.cisco.com//t5/ip-telephony/prime-collaboration-assurance-registration-status-unknow/td-p/3094733,0
+Hunt Pilot  Question about the Feature,07-25-2017,47,2,0,https://supportforums.cisco.com//t5/ip-telephony/hunt-pilot-question-about-the-feature-quot-display-line-group/td-p/3093943,0
+CME call not routing to skype,07-26-2017,43,0,0,https://supportforums.cisco.com//t5/ip-telephony/cme-call-not-routing-to-skype/td-p/3094719,0
+how to check on gateway weather dynamic,07-26-2017,25,1,0,https://supportforums.cisco.com//t5/ip-telephony/how-to-check-on-gateway-weather-dynamic-rtp-paylod-type-is/td-p/3094540,0
+Cisco Call Manager Sync problem and Dat,07-26-2017,38,2,0,https://supportforums.cisco.com//t5/ip-telephony/cisco-call-manager-sync-problem-and-database-replication-issue/td-p/3094381,0
+Restoring  adding CCM Subscriber serve,12-20-2006,220,8,6,https://supportforums.cisco.com//t5/ip-telephony/restoring-adding-ccm-subscriber-server/td-p/628668,0
+Call Manager 423 media,07-26-2017,25,2,0,https://supportforums.cisco.com//t5/ip-telephony/call-manager-4-2-3-media/td-p/3094280,0
+CM backup  restore Configuration from,07-26-2017,47,1,0,https://supportforums.cisco.com//t5/ip-telephony/cm-backup-restore-configuration-from-version-8-5-to-11-0/td-p/3094427,0
+7821 ip phone call via vpn drops,07-20-2017,57,9,0,https://supportforums.cisco.com//t5/ip-telephony/7821-ip-phone-call-via-vpn-drops/td-p/3090237,0
+connecting problem of Cisco Unified SIP,07-25-2017,24,2,0,https://supportforums.cisco.com//t5/ip-telephony/connecting-problem-of-cisco-unified-sip-phone-cp-3905/td-p/3094250,0
+about cisco ip phone 3905 conference,07-25-2017,110,2,0,https://supportforums.cisco.com//t5/ip-telephony/about-cisco-ip-phone-3905-conference/td-p/3094115,0
+Idle time out parameter for Extension M,01-28-2009,263,6,5,https://supportforums.cisco.com//t5/ip-telephony/idle-time-out-parameter-for-extension-mobility/td-p/1192754,0
+Cannot make Call from Analog Phone FXS ,07-25-2017,84,0,0,https://supportforums.cisco.com//t5/ip-telephony/cannot-make-call-from-analog-phone-fxs-to-sip-phone/td-p/3094078,0
+Expnasion Module,07-25-2017,24,3,0,https://supportforums.cisco.com//t5/ip-telephony/expnasion-module/td-p/3093815,1
+connect meraki mc74 to hpbx asterisk t,07-25-2017,40,1,0,https://supportforums.cisco.com//t5/ip-telephony/connect-meraki-mc74-to-hpbx-asterisk-this-is-possible-why/td-p/3093980,0
+Cisco CME Paging not Working,11-15-2016,175,2,0,https://supportforums.cisco.com//t5/ip-telephony/cisco-cme-paging-not-working/td-p/2991852,0
+CUCM and UCCX Clustering Over VPN,07-25-2017,32,0,0,https://supportforums.cisco.com//t5/ip-telephony/cucm-and-uccx-clustering-over-vpn/td-p/3093840,0
+cucm sending wrong RTP connection IP ad,07-25-2017,172,0,0,https://supportforums.cisco.com//t5/ip-telephony/cucm-sending-wrong-rtp-connection-ip-address-in-200-ok-sip/td-p/3093880,0
+simple question enabling remotepartyi,07-25-2017,17,2,5,https://supportforums.cisco.com//t5/ip-telephony/simple-question-enabling-remote-party-id-on-a-3825-voice-gateway/td-p/3093747,1
+TRAI India Regulations regarding VoIP,06-11-2015,17362,20,45,https://supportforums.cisco.com//t5/ip-telephony/trai-india-regulations-regarding-voip/td-p/2704100,1
+Странный звук,07-25-2017,34,2,0,https://supportforums.cisco.com//t5/ip-telephony/%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9-%D0%B7%D0%B2%D1%83%D0%BA/td-p/3093565,0
+CUCM,07-24-2017,29,5,0,https://supportforums.cisco.com//t5/ip-telephony/cucm/td-p/3092316,0
+CUCM database error help,07-25-2017,90,0,0,https://supportforums.cisco.com//t5/ip-telephony/cucm-database-error-help/td-p/3093572,0
+Phone language change on Cisco 8851 SIP,07-24-2017,307,3,0,https://supportforums.cisco.com//t5/ip-telephony/phone-language-change-on-cisco-8851-sip-phone/td-p/3092761,1
+Cisco SIP Phone 8865 integrate with IMS,07-25-2017,55,0,0,https://supportforums.cisco.com//t5/ip-telephony/cisco-sip-phone-8865-integrate-with-ims/td-p/3093522,0
+79407960 Phones not registering after ,07-25-2017,32,0,0,https://supportforums.cisco.com//t5/ip-telephony/7940-7960-phones-not-registering-after-vlan-id-changes/td-p/3093478,0
+CUCM Upgarde from 86 to 912 SU6 imag,07-24-2017,47,2,5,https://supportforums.cisco.com//t5/ip-telephony/cucm-upgarde-from-8-6-to-9-1-2-su6-image/td-p/3093029,1
+Netherland Dentech SIP trunk,07-24-2017,25,1,0,https://supportforums.cisco.com//t5/ip-telephony/netherland-dentech-sip-trunk/td-p/3092820,0
+No ring on mobile for Hunt group calls,07-24-2017,69,1,0,https://supportforums.cisco.com//t5/ip-telephony/no-ring-on-mobile-for-hunt-group-calls/td-p/3093178,0
+CUE 705 stuck in booting,07-25-2017,24,0,0,https://supportforums.cisco.com//t5/ip-telephony/cue-7-0-5-stuck-in-booting/td-p/3093287,0
+Avaya SIP Desktop phones on Callmanager,03-16-2017,308,9,0,https://supportforums.cisco.com//t5/ip-telephony/avaya-sip-desktop-phones-on-callmanager/td-p/3069206,1
+Cisco ISR4331 oneway audio,04-26-2017,379,4,0,https://supportforums.cisco.com//t5/ip-telephony/cisco-isr4331-one-way-audio/td-p/3004940,0
+upgrade cluster CUCM from 86 to 115,10-14-2016,409,6,4,https://supportforums.cisco.com//t5/ip-telephony/upgrade-cluster-cucm-from-8-6-to-11-5/td-p/2942146,0
+CUCME Help Needed,07-24-2017,96,6,0,https://supportforums.cisco.com//t5/ip-telephony/cucme-help-needed/td-p/3092534,1
+IP Communicator,07-20-2017,18,2,0,https://supportforums.cisco.com//t5/ip-telephony/ip-communicator/td-p/3090671,0
+voice register template cme 105,07-24-2017,240,1,0,https://supportforums.cisco.com//t5/ip-telephony/voice-register-template-cme-10-5/td-p/3092439,0
+Which CAPF cert is used if you have a f,07-24-2017,33,0,0,https://supportforums.cisco.com//t5/ip-telephony/which-capf-cert-is-used-if-you-have-a-few-on-your-cucm-cluster/td-p/3092733,0
+Forward Calls to VM or a Cell Phone WIT,01-04-2016,4299,8,20,https://supportforums.cisco.com//t5/ip-telephony/forward-calls-to-vm-or-a-cell-phone-without-a-physcial-phone/td-p/2790757,1
+Unity Connection 100 Busy Tone,09-18-2014,1520,11,10,https://supportforums.cisco.com//t5/ip-telephony/unity-connection-10-0-busy-tone/td-p/2505427,1
+Cisco enhanced line mode,07-24-2017,268,3,0,https://supportforums.cisco.com//t5/ip-telephony/cisco-enhanced-line-mode/td-p/3092333,1
+Cucm,07-22-2017,35,5,0,https://supportforums.cisco.com//t5/ip-telephony/cucm/td-p/3091757,0
+TSP lost configuration on Windows 10 up,07-21-2017,135,2,0,https://supportforums.cisco.com//t5/ip-telephony/tsp-lost-configuration-on-windows-10-update/td-p/3091333,0
+sip door entry system to sip call fails,01-14-2015,438,21,35,https://supportforums.cisco.com//t5/ip-telephony/sip-door-entry-system-to-sip-call-fails/td-p/2579489,0
+Calls Dropping off intermittently after,07-24-2017,14,2,0,https://supportforums.cisco.com//t5/ip-telephony/calls-dropping-off-intermittently-after-few-seconds/td-p/3092396,0
+sip trunk doest work after dns impleme,07-24-2017,17,2,0,https://supportforums.cisco.com//t5/ip-telephony/sip-trunk-does-t-work-after-dns-implementation/td-p/3092406,0
+Discard digits on calling number,07-21-2017,32,3,0,https://supportforums.cisco.com//t5/ip-telephony/discard-digits-on-calling-number/td-p/3091227,1
+CUCM MTP Sizing,07-10-2017,667,11,5,https://supportforums.cisco.com//t5/ip-telephony/cucm-mtp-sizing/td-p/3073082,1
+Cisco 8841 IP Phone not accepting 3rd p,02-12-2017,54,2,0,https://supportforums.cisco.com//t5/ip-telephony/cisco-8841-ip-phone-not-accepting-3rd-party-firmware/td-p/3064705,0
+Cisco 7861 registered to 3rd party PBX ,06-14-2017,130,5,5,https://supportforums.cisco.com//t5/ip-telephony/cisco-7861-registered-to-3rd-party-pbx-other-than-cucm/td-p/3060312,0
+CP8851 bad boot image,05-02-2017,38,2,0,https://supportforums.cisco.com//t5/ip-telephony/cp-8851-bad-boot-image/td-p/3026620,0
+utils command on CUCM,07-19-2017,386,19,5,https://supportforums.cisco.com//t5/ip-telephony/utils-command-on-cucm/td-p/3090097,1
+ITLCTL and Certificate,07-14-2017,1188,14,25,https://supportforums.cisco.com//t5/ip-telephony/itl-ctl-and-certificate/td-p/3085674,0
+CDR Repository Service,07-07-2017,266,4,0,https://supportforums.cisco.com//t5/ip-telephony/cdr-repository-service/td-p/3064562,0
+Call Forward to Translation Pattern,07-23-2017,80,5,0,https://supportforums.cisco.com//t5/ip-telephony/call-forward-to-translation-pattern/td-p/3091945,0
+Need to configure extension with 9XXXX ,07-23-2017,169,2,0,https://supportforums.cisco.com//t5/ip-telephony/need-to-configure-extension-with-9xxxx-as-internal-while-we/td-p/3091828,1
+Analog FXO port routed through switch p,07-22-2017,41,4,0,https://supportforums.cisco.com//t5/ip-telephony/analog-fxo-port-routed-through-switch-ports/td-p/3091778,0
+VIC32EM analog to digital conversion ,07-22-2017,28,2,0,https://supportforums.cisco.com//t5/ip-telephony/vic3-2e-m-analog-to-digital-conversion-time/td-p/3091594,0
+Auto Ring from Cisco Callmanager to a P,12-18-2013,108,3,0,https://supportforums.cisco.com//t5/ip-telephony/auto-ring-from-cisco-callmanager-to-a-pstn-switch/td-p/2381561,0
+Cisco CUCM configuration for same exten,07-23-2017,53,1,5,https://supportforums.cisco.com//t5/ip-telephony/cisco-cucm-configuration-for-same-extension-for-ata187-and/td-p/3091872,0
+ThirdParty SIP phone reregistration i,07-22-2017,234,12,0,https://supportforums.cisco.com//t5/ip-telephony/third-party-sip-phone-re-registration-issue/td-p/3091665,1
+SRST for SIP 7841 Phone on 2921,07-15-2017,151,2,0,https://supportforums.cisco.com//t5/ip-telephony/srst-for-sip-7841-phone-on-2921/td-p/3086257,1
+Status Local Agent is not responding,07-19-2017,743,8,10,https://supportforums.cisco.com//t5/ip-telephony/status-local-agent-is-not-responding-this-may-be-due-to-master/td-p/3089816,1
+non MCD Devices details,07-22-2017,38,1,0,https://supportforums.cisco.com//t5/ip-telephony/non-mcd-devices-details/td-p/3091654,0
+Voice mail PIN Cisco Unity and CUCM9,07-20-2017,79,4,10,https://supportforums.cisco.com//t5/ip-telephony/voice-mail-pin-cisco-unity-and-cucm9/td-p/3090617,0
+Modify CUBE SIP Diversion Header from 3,07-21-2017,137,1,0,https://supportforums.cisco.com//t5/ip-telephony/modify-cube-sip-diversion-header-from-3-digit-extension-to-10/td-p/3091527,0
+International OnNet calling between US,07-21-2017,109,1,0,https://supportforums.cisco.com//t5/ip-telephony/international-on-net-calling-between-usa-and-uae-dubai-saudi/td-p/3091425,0
+Remote IP Phone ASA 5505 easyvpn to cal,07-22-2017,12,0,0,https://supportforums.cisco.com//t5/ip-telephony/remote-ip-phone-asa-5505-easyvpn-to-call-manger-8-6-outbound/td-p/3091598,0
+IMPresence new deployment not function,07-20-2017,31,2,0,https://supportforums.cisco.com//t5/ip-telephony/im-presence-new-deployment-not-functioning-properly/td-p/3090899,0
+SPA 112 SIP disconnects occasionally,07-21-2017,16,1,0,https://supportforums.cisco.com//t5/ip-telephony/spa-112-sip-disconnects-occasionally/td-p/3091232,0
+MOH Storage Space,07-21-2017,159,4,0,https://supportforums.cisco.com//t5/ip-telephony/moh-storage-space/td-p/3091257,0
+Why We need to upgrade Publisher first,07-21-2017,29,1,0,https://supportforums.cisco.com//t5/ip-telephony/why-we-need-to-upgrade-publisher-first/td-p/3091397,0
+SRST 105  dialpeer,07-20-2017,24,6,0,https://supportforums.cisco.com//t5/ip-telephony/srst-10-5-dial-peer/td-p/3090873,1
+Login is unavailable 23 EMCC,07-18-2012,14563,26,10,https://supportforums.cisco.com//t5/ip-telephony/login-is-unavailable-23-emcc/td-p/1973769,0
+CUCM 10  Fedex delivery,07-20-2017,25,3,0,https://supportforums.cisco.com//t5/ip-telephony/cucm-10-fedex-delivery/td-p/3090851,0
+who is using my license,07-21-2017,51,2,0,https://supportforums.cisco.com//t5/ip-telephony/who-is-using-my-license/td-p/3091116,0
+Ciscio 7960 unregistering when user tur,07-21-2017,22,0,0,https://supportforums.cisco.com//t5/ip-telephony/ciscio-7960-unregistering-when-user-turns-on-pc/td-p/3091107,0
+Error updating locale,07-20-2017,557,3,0,https://supportforums.cisco.com//t5/ip-telephony/error-updating-locale/td-p/3090892,1
+Hunt Pilot CDR Report  FONA  FOB,07-17-2017,60,5,0,https://supportforums.cisco.com//t5/ip-telephony/hunt-pilot-cdr-report-fona-fob/td-p/3086957,1
+Personal Directory phone edit option no,07-20-2017,79,4,0,https://supportforums.cisco.com//t5/ip-telephony/personal-directory-phone-edit-option-not-available/td-p/3090272,0
+End user account on Webex,07-21-2017,16,0,0,https://supportforums.cisco.com//t5/ip-telephony/end-user-account-on-webex/td-p/3091003,0
+How to display caller ID from selected ,07-06-2017,178,18,0,https://supportforums.cisco.com//t5/ip-telephony/how-to-display-caller-id-from-selected-phones-and-hide-from-all/td-p/3059258,0
+CUCM SIP trunk call routing,07-20-2017,148,7,5,https://supportforums.cisco.com//t5/ip-telephony/cucm-sip-trunk-call-routing/td-p/3090016,1
+IP 7961G registers to Publisher despite,07-20-2017,14,2,0,https://supportforums.cisco.com//t5/ip-telephony/ip-7961g-registers-to-publisher-despite-configurations-set-to/td-p/3090654,0
+CDRs Search and Download the search mo,07-20-2017,18,2,0,https://supportforums.cisco.com//t5/ip-telephony/cdrs-search-and-download-the-search-more-than-100/td-p/3090642,0
+Issue with MRA Cisco IP Phones 7800880,02-27-2017,1873,7,5,https://supportforums.cisco.com//t5/ip-telephony/issue-with-mra-cisco-ip-phones-7800-8800/td-p/3064187,1
+Voice CUBE HA selfreload,02-06-2017,236,1,0,https://supportforums.cisco.com//t5/ip-telephony/voice-cube-ha-self-reload/td-p/3029077,0
+SIP IP Phones Cannot Complete Registrat,07-17-2017,63,13,0,https://supportforums.cisco.com//t5/ip-telephony/sip-ip-phones-cannot-complete-registration/td-p/3087707,1
+Import wav file to CUC,10-02-2015,318,12,5,https://supportforums.cisco.com//t5/ip-telephony/import-wav-file-to-cuc/td-p/2753903,1
+2901 CME 117 Compatability,07-11-2017,185,2,5,https://supportforums.cisco.com//t5/ip-telephony/2901-cme-11-7-compatability/td-p/3079076,1
+Calls not routing to PSTN,07-19-2017,25,10,0,https://supportforums.cisco.com//t5/ip-telephony/calls-not-routing-to-pstn/td-p/3089711,0
+PVDM location  benefits on 4300 series,07-20-2017,190,1,0,https://supportforums.cisco.com//t5/ip-telephony/pvdm-location-benefits-on-4300-series-router/td-p/3090510,0
+Cisco CP8831 connecting CP8831 Wirele,07-20-2017,42,0,0,https://supportforums.cisco.com//t5/ip-telephony/cisco-cp-8831-connecting-cp-8831-wireless-microphones/td-p/3090544,0
+Cant find SIP application in new SIP P,07-20-2017,183,1,0,https://supportforums.cisco.com//t5/ip-telephony/can-t-find-sip-application-in-new-sip-phone-8865/td-p/3090399,0
+Cisco Phone  Corporate Directory not w,07-20-2017,19,0,0,https://supportforums.cisco.com//t5/ip-telephony/cisco-phone-corporate-directory-not-working/td-p/3090532,0
+CUCM replication mismatch deep researc,07-19-2017,346,18,40,https://supportforums.cisco.com//t5/ip-telephony/cucm-replication-mismatch-deep-research/td-p/3089613,0
+Cisco IP communicator over MRA,07-20-2017,290,3,5,https://supportforums.cisco.com//t5/ip-telephony/cisco-ip-communicator-over-mra/td-p/3090383,1
+Directory Search in CUCM,05-29-2017,49,2,0,https://supportforums.cisco.com//t5/ip-telephony/directory-search-in-cucm/td-p/3070226,0
+specific Local Number calling is failin,07-18-2017,16,3,0,https://supportforums.cisco.com//t5/ip-telephony/specific-local-number-calling-is-failing-debug-attached-e1-r2/td-p/3088947,0
+7811 softkey disappeared,07-10-2017,65,2,0,https://supportforums.cisco.com//t5/ip-telephony/7811-softkey-disappeared/td-p/3075032,0
+cme,07-19-2017,14,1,0,https://supportforums.cisco.com//t5/ip-telephony/cme/td-p/3089978,0
+Unknow about extension number,07-19-2017,34,4,0,https://supportforums.cisco.com//t5/ip-telephony/unknow-about-extension-number/td-p/3089044,0
+Cisco 8821 contact list lost after upgr,07-19-2017,106,1,0,https://supportforums.cisco.com//t5/ip-telephony/cisco-8821-contact-list-lost-after-upgrade-personal-address-book/td-p/3089886,0
+attendance console automatic call answe,07-19-2017,24,1,0,https://supportforums.cisco.com//t5/ip-telephony/attendance-console-automatic-call-answer-and-goes-hold/td-p/3089937,0
+Transfer to Extension in Call Handler,07-19-2017,16,1,0,https://supportforums.cisco.com//t5/ip-telephony/transfer-to-extension-in-call-handler/td-p/3089905,0
+CCX Scripting Problem,07-14-2017,45,6,5,https://supportforums.cisco.com//t5/ip-telephony/ccx-scripting-problem/td-p/3085923,0
+Adding PRI to H323 voice gateway,07-18-2017,42,2,0,https://supportforums.cisco.com//t5/ip-telephony/adding-pri-to-h-323-voice-gateway/td-p/3088768,0
+Telmex E1 R2 with MGCP gateway,09-15-2016,471,10,0,https://supportforums.cisco.com//t5/ip-telephony/telmex-e1-r2-with-mgcp-gateway/td-p/2961670,1
+SPA122,07-19-2017,58,0,0,https://supportforums.cisco.com//t5/ip-telephony/spa122/td-p/3089770,0
+FXO 2921 Static issue,07-19-2017,84,5,0,https://supportforums.cisco.com//t5/ip-telephony/fxo-2921-static-issue/td-p/3089482,0
+BE5K Version 7 CUCMUnity one server ,07-15-2017,39,4,3,https://supportforums.cisco.com//t5/ip-telephony/be5k-version-7-cucm-unity-one-server-brain-teaser-cucm-users-do/td-p/3086456,0
